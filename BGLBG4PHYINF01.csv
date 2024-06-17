@@ -1,0 +1,327 @@
+"VMName","VMId","State","CPUUsage","MemoryAssignedGB","Uptime","Status","IntegrationServicesState","Generation","Path","CreationTime","IsClustered","IsHighlyAvailable","Version","Notes","NetworkAdapters","HardDrives","VhdPath","VhdSizeGB","VhdSizeOnDiskGB","IPAddresses","ManagementName","Records"
+"BG1MGTVMPRTG01","3502f4f7-96c4-40e6-b33e-2ad87d994ccc","Running","0","6.89","81.00:40:40.8960000","Operating normally","","1","D:\BG1MGTVMPRTG01\BG1MGTVMPRTG01","7/15/2023 11:03:11 AM","False",,"9.0","PRTG Tool
+
+Hostname: BG1MGTVMPRTG01
+IP: 172.29.42.140
+User Name: Administrator
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763 )
+
+In-Use IT-Infra for PRTG (Owner Shiv Sharanappa) Verified by Srinivasa KP on 29th May 2024
+
+
+","Network Adapter","D:\BG1MGTVMPRTG01\BG1MGTVMPRTG01.vhdx, D:\BG1MGTVMPRTG01\New Virtual Hard Disk.vhdx","D:\BG1MGTVMPRTG01\BG1MGTVMPRTG01.vhdx","100","42.82","172.29.42.140, fe80::33c3:fe2c:fd49:3239",,"PRTG Tool
+
+Hostname: BG1MGTVMPRTG01
+IP: 172.29.42.140
+User Name: Administrator
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763 )
+
+In-Use IT-Infra for PRTG (Owner Shiv Sharanappa) Verified by Srinivasa KP on 29th May 2024
+
+
+"
+"BG1MGTVMPRTG01","3502f4f7-96c4-40e6-b33e-2ad87d994ccc","Running","2","6.89","81.00:40:41.4910000","Operating normally","","1","D:\BG1MGTVMPRTG01\BG1MGTVMPRTG01","7/15/2023 11:03:11 AM","False",,"9.0","PRTG Tool
+
+Hostname: BG1MGTVMPRTG01
+IP: 172.29.42.140
+User Name: Administrator
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763 )
+
+In-Use IT-Infra for PRTG (Owner Shiv Sharanappa) Verified by Srinivasa KP on 29th May 2024
+
+
+","Network Adapter","D:\BG1MGTVMPRTG01\BG1MGTVMPRTG01.vhdx, D:\BG1MGTVMPRTG01\New Virtual Hard Disk.vhdx","D:\BG1MGTVMPRTG01\New Virtual Hard Disk.vhdx","200","200","172.29.42.140, fe80::33c3:fe2c:fd49:3239",,"PRTG Tool
+
+Hostname: BG1MGTVMPRTG01
+IP: 172.29.42.140
+User Name: Administrator
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763 )
+
+In-Use IT-Infra for PRTG (Owner Shiv Sharanappa) Verified by Srinivasa KP on 29th May 2024
+
+
+"
+"BG4PHYINF01ADFS01","a0d42c99-794e-4e2d-9b61-cb3e543abff9","Running","0","6.13","27.09:47:00.4630000","Operating normally","","1","D:\BG4PHYINF01ADFS01\BG4PHYINF01ADFS01","1/4/2024 10:47:38 AM","False",,"9.0","ADFS Server 2016
+
+Hostname: BG4PHYINF01FS01
+IP: 172.29.42.100
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393 )
+User Name: Nirva
+Owner: Exchange Admin Team
+
+Created By: Manjunath Hegde 
+
+In-Use for Infra. Verified by Srinivasa KP on 29th May 2024","Network Adapter","D:\BG4PHYINF01ADFS01\BG4PHYINF01ADFS01-C_19C9A104-01F7-4C74-889F-1990E323CB62.avhdx, D:\BG4PHYINF01ADFS01\BG4PHYINF01ADFS01-D_89B1AECE-3124-49BB-ACA8-0846B79519B5.avhdx","D:\BG4PHYINF01ADFS01\BG4PHYINF01ADFS01-C_19C9A104-01F7-4C74-889F-1990E323CB62.avhdx","200","91.22","172.29.42.100",,"ADFS Server 2016
+
+Hostname: BG4PHYINF01FS01
+IP: 172.29.42.100
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393 )
+User Name: Nirva
+Owner: Exchange Admin Team
+
+Created By: Manjunath Hegde 
+
+In-Use for Infra. Verified by Srinivasa KP on 29th May 2024"
+"BG4PHYINF01ADFS01","a0d42c99-794e-4e2d-9b61-cb3e543abff9","Running","0","6.13","27.09:47:01.0170000","Operating normally","","1","D:\BG4PHYINF01ADFS01\BG4PHYINF01ADFS01","1/4/2024 10:47:38 AM","False",,"9.0","ADFS Server 2016
+
+Hostname: BG4PHYINF01FS01
+IP: 172.29.42.100
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393 )
+User Name: Nirva
+Owner: Exchange Admin Team
+
+Created By: Manjunath Hegde 
+
+In-Use for Infra. Verified by Srinivasa KP on 29th May 2024","Network Adapter","D:\BG4PHYINF01ADFS01\BG4PHYINF01ADFS01-C_19C9A104-01F7-4C74-889F-1990E323CB62.avhdx, D:\BG4PHYINF01ADFS01\BG4PHYINF01ADFS01-D_89B1AECE-3124-49BB-ACA8-0846B79519B5.avhdx","D:\BG4PHYINF01ADFS01\BG4PHYINF01ADFS01-D_89B1AECE-3124-49BB-ACA8-0846B79519B5.avhdx","100","0.75","172.29.42.100",,"ADFS Server 2016
+
+Hostname: BG4PHYINF01FS01
+IP: 172.29.42.100
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393 )
+User Name: Nirva
+Owner: Exchange Admin Team
+
+Created By: Manjunath Hegde 
+
+In-Use for Infra. Verified by Srinivasa KP on 29th May 2024"
+"BG4PHYINF01CA01","2d343538-e467-46a1-9aae-8630badfea16","Running","0","3.71","94.19:23:57.7840000","Operating normally","","1","D:\BG4PHYINF01CA01\BG4PHYINF01CA01","3/13/2024 4:06:02 PM","False",,"9.0","Certificate Server
+
+Server Name: BG4PHYINF01CA01
+Hostname: BG1PHYMGT01CA01
+OS: Windows Server 2012 R2
+IP: 172.29.42.56
+Username: administrator
+Owner: Exchange Admin Team
+
+Note: This server is used for ROLE Certification Authority, do not attempt to Shutdown/Restart this without  authoraization 
+
+In-Use for Infra. Verified by Srinivasa KP on 29th May 2024
+
+","Network Adapter","D:\BG4PHYINF01CA01\BG1PHYMGT01CA01.vhdx","D:\BG4PHYINF01CA01\BG1PHYMGT01CA01.vhdx","300","20.38","172.29.42.56",,"Certificate Server
+
+Server Name: BG4PHYINF01CA01
+Hostname: BG1PHYMGT01CA01
+OS: Windows Server 2012 R2
+IP: 172.29.42.56
+Username: administrator
+Owner: Exchange Admin Team
+
+Note: This server is used for ROLE Certification Authority, do not attempt to Shutdown/Restart this without  authoraization 
+
+In-Use for Infra. Verified by Srinivasa KP on 29th May 2024
+
+"
+"BG4PHYINF01INSNC02","37bf0de8-ffbc-4087-9fb8-4e0914573984","Running","0","4.49","109.18:20:30.0630000","Operating normally","","1","D:\BG4PHYINF01INSNC02\BG4PHYINF01INSNC02","2/14/2024 9:44:17 AM","False",,"9.0","Druva inSync Server
+
+Hostname: BG4INF01INSNC02
+IP: 172.29.42.54
+OS: Windows Server 2019 Standard
+User Name: Nirva & blradm
+Owner: Exchange Admin Team
+
+Created By: Manjunath Hegde 
+
+In-Use for Infra. Verified by Srinivasa KP on 29th May 2024","Network Adapter","D:\BG4PHYINF01INSNC02\BG4PHYINF01INSNC02\Virtual Hard Disks\BG4PHYINF01INSNC02-C.vhdx, D:\BG4PHYINF01INSNC02\BG4PHYINF01INSNC02\Virtual Hard Disks\BG4PHYINF01INSNC02-D.vhdx","D:\BG4PHYINF01INSNC02\BG4PHYINF01INSNC02\Virtual Hard Disks\BG4PHYINF01INSNC02-C.vhdx","200","28.6","172.29.42.54",,"Druva inSync Server
+
+Hostname: BG4INF01INSNC02
+IP: 172.29.42.54
+OS: Windows Server 2019 Standard
+User Name: Nirva & blradm
+Owner: Exchange Admin Team
+
+Created By: Manjunath Hegde 
+
+In-Use for Infra. Verified by Srinivasa KP on 29th May 2024"
+"BG4PHYINF01INSNC02","37bf0de8-ffbc-4087-9fb8-4e0914573984","Running","0","4.49","109.18:20:30.6460000","Operating normally","","1","D:\BG4PHYINF01INSNC02\BG4PHYINF01INSNC02","2/14/2024 9:44:17 AM","False",,"9.0","Druva inSync Server
+
+Hostname: BG4INF01INSNC02
+IP: 172.29.42.54
+OS: Windows Server 2019 Standard
+User Name: Nirva & blradm
+Owner: Exchange Admin Team
+
+Created By: Manjunath Hegde 
+
+In-Use for Infra. Verified by Srinivasa KP on 29th May 2024","Network Adapter","D:\BG4PHYINF01INSNC02\BG4PHYINF01INSNC02\Virtual Hard Disks\BG4PHYINF01INSNC02-C.vhdx, D:\BG4PHYINF01INSNC02\BG4PHYINF01INSNC02\Virtual Hard Disks\BG4PHYINF01INSNC02-D.vhdx","D:\BG4PHYINF01INSNC02\BG4PHYINF01INSNC02\Virtual Hard Disks\BG4PHYINF01INSNC02-D.vhdx","100","100","172.29.42.54",,"Druva inSync Server
+
+Hostname: BG4INF01INSNC02
+IP: 172.29.42.54
+OS: Windows Server 2019 Standard
+User Name: Nirva & blradm
+Owner: Exchange Admin Team
+
+Created By: Manjunath Hegde 
+
+In-Use for Infra. Verified by Srinivasa KP on 29th May 2024"
+"BG4PHYINF01W16DC02","77593710-a994-4460-b003-2de688c8376b","Running","0","4.67","15.15:10:58.5740000","Operating normally","","1","D:\BG4PHYINF01W16DC02\BG4PHYINF01W16DC02","12/22/2023 7:56:41 PM","False",,"9.0","ADC 2016 Server
+
+Hostname: BG4INF01W16DC02
+IP: 172.29.42.72
+User Name: Nirva
+Owner: Exchange Admin Team
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393 )
+
+Created By: Manjunath Hegde
+
+In-Use for Infra. Verified by Srinivasa KP on 29th May 2024","Network Adapter","D:\BG4PHYINF01W16DC02\BG4PHYINF01W16DC02\Virtual Hard Disks\BG4PHYINF01W16DC02-C.vhdx, D:\BG4PHYINF01W16DC02\BG4PHYINF01W16DC02\Virtual Hard Disks\BG4PHYINF01W16DC02-D.vhdx, D:\BG4PHYINF01W16DC02\BG4PHYINF01W16DC02\Virtual Hard Disks\BG4PHYINF01W16DC02-E.vhdx","D:\BG4PHYINF01W16DC02\BG4PHYINF01W16DC02\Virtual Hard Disks\BG4PHYINF01W16DC02-C.vhdx","200","59.32","172.29.42.72",,"ADC 2016 Server
+
+Hostname: BG4INF01W16DC02
+IP: 172.29.42.72
+User Name: Nirva
+Owner: Exchange Admin Team
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393 )
+
+Created By: Manjunath Hegde
+
+In-Use for Infra. Verified by Srinivasa KP on 29th May 2024"
+"BG4PHYINF01W16DC02","77593710-a994-4460-b003-2de688c8376b","Running","0","4.67","15.15:10:58.9040000","Operating normally","","1","D:\BG4PHYINF01W16DC02\BG4PHYINF01W16DC02","12/22/2023 7:56:41 PM","False",,"9.0","ADC 2016 Server
+
+Hostname: BG4INF01W16DC02
+IP: 172.29.42.72
+User Name: Nirva
+Owner: Exchange Admin Team
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393 )
+
+Created By: Manjunath Hegde
+
+In-Use for Infra. Verified by Srinivasa KP on 29th May 2024","Network Adapter","D:\BG4PHYINF01W16DC02\BG4PHYINF01W16DC02\Virtual Hard Disks\BG4PHYINF01W16DC02-C.vhdx, D:\BG4PHYINF01W16DC02\BG4PHYINF01W16DC02\Virtual Hard Disks\BG4PHYINF01W16DC02-D.vhdx, D:\BG4PHYINF01W16DC02\BG4PHYINF01W16DC02\Virtual Hard Disks\BG4PHYINF01W16DC02-E.vhdx","D:\BG4PHYINF01W16DC02\BG4PHYINF01W16DC02\Virtual Hard Disks\BG4PHYINF01W16DC02-D.vhdx","100","100","172.29.42.72",,"ADC 2016 Server
+
+Hostname: BG4INF01W16DC02
+IP: 172.29.42.72
+User Name: Nirva
+Owner: Exchange Admin Team
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393 )
+
+Created By: Manjunath Hegde
+
+In-Use for Infra. Verified by Srinivasa KP on 29th May 2024"
+"BG4PHYINF01W16DC02","77593710-a994-4460-b003-2de688c8376b","Running","0","4.67","15.15:10:58.9200000","Operating normally","","1","D:\BG4PHYINF01W16DC02\BG4PHYINF01W16DC02","12/22/2023 7:56:41 PM","False",,"9.0","ADC 2016 Server
+
+Hostname: BG4INF01W16DC02
+IP: 172.29.42.72
+User Name: Nirva
+Owner: Exchange Admin Team
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393 )
+
+Created By: Manjunath Hegde
+
+In-Use for Infra. Verified by Srinivasa KP on 29th May 2024","Network Adapter","D:\BG4PHYINF01W16DC02\BG4PHYINF01W16DC02\Virtual Hard Disks\BG4PHYINF01W16DC02-C.vhdx, D:\BG4PHYINF01W16DC02\BG4PHYINF01W16DC02\Virtual Hard Disks\BG4PHYINF01W16DC02-D.vhdx, D:\BG4PHYINF01W16DC02\BG4PHYINF01W16DC02\Virtual Hard Disks\BG4PHYINF01W16DC02-E.vhdx","D:\BG4PHYINF01W16DC02\BG4PHYINF01W16DC02\Virtual Hard Disks\BG4PHYINF01W16DC02-E.vhdx","100","100","172.29.42.72",,"ADC 2016 Server
+
+Hostname: BG4INF01W16DC02
+IP: 172.29.42.72
+User Name: Nirva
+Owner: Exchange Admin Team
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393 )
+
+Created By: Manjunath Hegde
+
+In-Use for Infra. Verified by Srinivasa KP on 29th May 2024"
+"BGLBG4PHYINF01INSNC1","31503fb6-87f9-4efa-9d9b-aa6c4bac412b","Running","1","8.08","123.16:20:37.5300000","Operating normally","","1","D:\BGLBG4PHYINF01INSNC1\BGLBG4PHYINF01INSNC1","8/22/2023 10:54:26 AM","False",,"9.0","Role: Druva insync and password expiry tool
+
+Ip Address: 172.29.42.53
+Server name: BG1MGTVMINSNC1
+user name: blradm
+Owner: Exchange Admin Team
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393 )
+
+In-Use for Infra. Verified by Srinivasa KP on 29th May 2024
+","Network Adapter","D:\BGLBG4PHYINF01INSNC1\BGLBG4PHYINF01INSNC1\BG1MGTVMINSNC1.vhdx","D:\BGLBG4PHYINF01INSNC1\BGLBG4PHYINF01INSNC1\BG1MGTVMINSNC1.vhdx","150","51.54","172.29.42.53",,"Role: Druva insync and password expiry tool
+
+Ip Address: 172.29.42.53
+Server name: BG1MGTVMINSNC1
+user name: blradm
+Owner: Exchange Admin Team
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393 )
+
+In-Use for Infra. Verified by Srinivasa KP on 29th May 2024
+"
+"BGLBG4PHYINF01NS5","6bfcc112-3dd6-4bfe-ab46-28b1785e8fb0","Running","0","8","45.13:36:49.2000000","Operating normally","","1","D:\BGLBG4PHYINF01NS5\BGLBG4PHYINF01NS5","8/16/2023 11:56:56 AM","False",,"9.0","Public DNS NS5
+
+Hostname: NS5
+IP: 172.29.41.13
+User Name: bg4adm
+Owner: Exchange Admin Team
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763 )
+
+Created By: Manjunath Hegde
+
+In-Use for Infra. Verified by Srinivasa KP on 29th May 2024
+","Network Adapter","D:\BGLBG4PHYINF01NS5\BGLBG4PHYINF01NS5\Virtual Hard Disks\BGLBG4PHYINF01NS5.vhdx","D:\BGLBG4PHYINF01NS5\BGLBG4PHYINF01NS5\Virtual Hard Disks\BGLBG4PHYINF01NS5.vhdx","150","21.25","172.29.41.13",,"Public DNS NS5
+
+Hostname: NS5
+IP: 172.29.41.13
+User Name: bg4adm
+Owner: Exchange Admin Team
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763 )
+
+Created By: Manjunath Hegde
+
+In-Use for Infra. Verified by Srinivasa KP on 29th May 2024
+"
+"BGLBG4PHYINF01NTP01","53537ebe-315e-4b10-9729-33dcbf594219","Running","0","5.53","276.19:46:09.8230000","Operating normally","","1","D:\BGLBG4PHYINF01NTP01\BGLBG4PHYINF01NTP01","9/11/2023 2:57:44 PM","False",,"9.0","NTP Server
+
+Hostname: NTP01
+IP: 172.29.42.191
+User Name: Infra
+OS: Ubuntu 22.04.3
+User Name: Infra
+Pswd: default server pswd
+Owner: Exchange Admin Team
+
+Created By: Manjunath Hegde
+
+In-Use for IT-Infra, Verified by Srinivasa KP on 29th May 2024","Network Adapter","D:\BGLBG4PHYINF01NTP01\BGLBG4PHYINF01NTP01\Virtual Hard Disks\BGLBG4PHYINF01NTP01.vhdx","D:\BGLBG4PHYINF01NTP01\BGLBG4PHYINF01NTP01\Virtual Hard Disks\BGLBG4PHYINF01NTP01.vhdx","200","25.57","",,"NTP Server
+
+Hostname: NTP01
+IP: 172.29.42.191
+User Name: Infra
+OS: Ubuntu 22.04.3
+User Name: Infra
+Pswd: default server pswd
+Owner: Exchange Admin Team
+
+Created By: Manjunath Hegde
+
+In-Use for IT-Infra, Verified by Srinivasa KP on 29th May 2024"
+"BGLBG4PHYINF01SEPM02","ff0a17ff-aeeb-4d07-a36e-5fe2618ddb0e","Running","0","21.42","327.23:22:50.2860000","Operating normally","","1","D:\BGLBG4PHYINF01SEPM02\BGLBG4PHYINF01SEPM02","7/15/2023 12:00:19 AM","False",,"9.0","Symantec Internal Server
+
+Hostname: BG4INF01SEPM02
+IP: 172.29.42.151
+User Name: Nirva
+Owner: Exchange Admin Team
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763 )
+
+Created By: Manjunath Hegde
+
+In-Use for IT-Infra, Verified by Srinivasa KP on 29th May 2024","Network Adapter","D:\BGLBG4PHYINF01SEPM02\BGLBG4PHYINF01SEPM02\Virtual Hard Disks\BGLBG4PHYINF01SEPM02.vhdx, D:\BGLBG4PHYINF01SEPM02\BGLBG4PHYINF01SEPM02\Virtual Hard Disks\BGLBG4PHYINF01SEPM02-Disk2.vhdx","D:\BGLBG4PHYINF01SEPM02\BGLBG4PHYINF01SEPM02\Virtual Hard Disks\BGLBG4PHYINF01SEPM02.vhdx","200","27.75","172.29.42.151, fe80::c902:1fc2:e3f7:79c6",,"Symantec Internal Server
+
+Hostname: BG4INF01SEPM02
+IP: 172.29.42.151
+User Name: Nirva
+Owner: Exchange Admin Team
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763 )
+
+Created By: Manjunath Hegde
+
+In-Use for IT-Infra, Verified by Srinivasa KP on 29th May 2024"
+"BGLBG4PHYINF01SEPM02","ff0a17ff-aeeb-4d07-a36e-5fe2618ddb0e","Running","0","21.42","327.23:22:50.3020000","Operating normally","","1","D:\BGLBG4PHYINF01SEPM02\BGLBG4PHYINF01SEPM02","7/15/2023 12:00:19 AM","False",,"9.0","Symantec Internal Server
+
+Hostname: BG4INF01SEPM02
+IP: 172.29.42.151
+User Name: Nirva
+Owner: Exchange Admin Team
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763 )
+
+Created By: Manjunath Hegde
+
+In-Use for IT-Infra, Verified by Srinivasa KP on 29th May 2024","Network Adapter","D:\BGLBG4PHYINF01SEPM02\BGLBG4PHYINF01SEPM02\Virtual Hard Disks\BGLBG4PHYINF01SEPM02.vhdx, D:\BGLBG4PHYINF01SEPM02\BGLBG4PHYINF01SEPM02\Virtual Hard Disks\BGLBG4PHYINF01SEPM02-Disk2.vhdx","D:\BGLBG4PHYINF01SEPM02\BGLBG4PHYINF01SEPM02\Virtual Hard Disks\BGLBG4PHYINF01SEPM02-Disk2.vhdx","200","200","172.29.42.151, fe80::c902:1fc2:e3f7:79c6",,"Symantec Internal Server
+
+Hostname: BG4INF01SEPM02
+IP: 172.29.42.151
+User Name: Nirva
+Owner: Exchange Admin Team
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763 )
+
+Created By: Manjunath Hegde
+
+In-Use for IT-Infra, Verified by Srinivasa KP on 29th May 2024"
+"BGLBGL4PHYINF01RDS","06d58816-9366-4c39-89f9-bd6425518cba","Off","0","0","00:00:00","Operating normally","","1","D:\Hyper-V","10/21/2023 5:28:02 PM","False",,"9.0","","Network Adapter","D:\BGLBGL4PHYINF01RDS\BGLBGL4PHYINF01RDS.vhdx","D:\BGLBGL4PHYINF01RDS\BGLBGL4PHYINF01RDS.vhdx","300","10.88","",,""

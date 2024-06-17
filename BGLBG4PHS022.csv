@@ -1,0 +1,362 @@
+"VMName","VMId","State","CPUUsage","MemoryAssignedGB","Uptime","Status","IntegrationServicesState","Generation","Path","CreationTime","IsClustered","IsHighlyAvailable","Version","Notes","NetworkAdapters","HardDrives","VhdPath","VhdSizeGB","VhdSizeOnDiskGB","IPAddresses","ManagementName","Records"
+"BG4PGS022ASCSVM","3b5fcfac-5cc9-4580-9987-de43570984ec","Running","0","24","166.02:36:30","Operating normally","Up to date","1","C:\ProgramData\Microsoft\Windows\Hyper-V","8/26/2021 9:05:59 PM","False",,"5.0","
+Hostname: BG4PGS022ASCSVM
+Ip address: 172.29.67.19
+OS: Windows Server 2012 R2 Standard
+
+Eamil request came from user Shashidharan P & Sandhya B Subbarao
+
+Created by charan Kumar on 20.08.2021 
+
+Project: ASCS R3
+
+username: administrator
+Password: pass@word1
+
+This vm is in use verified by praveen KM on 30-May-22.
+User : Hemalatha GD
+
+In Use, confirmed by Hemalatha GD on 04-Jun-2024. 
+","Network Adapter","F:\BG4PGS022ASCSVM\BG4PGS022ASCSVM.vhdx","F:\BG4PGS022ASCSVM\BG4PGS022ASCSVM.vhdx","350","347.13","172.29.67.19",,"
+Hostname: BG4PGS022ASCSVM
+Ip address: 172.29.67.19
+OS: Windows Server 2012 R2 Standard
+
+Eamil request came from user Shashidharan P & Sandhya B Subbarao
+
+Created by charan Kumar on 20.08.2021 
+
+Project: ASCS R3
+
+username: administrator
+Password: pass@word1
+
+This vm is in use verified by praveen KM on 30-May-22.
+User : Hemalatha GD
+
+In Use, confirmed by Hemalatha GD on 04-Jun-2024. 
+"
+"BG4PHS022APPSRVM","7b11d3a4-216c-4b4d-9081-29308ffd4a84","Running","0","20","92.21:27:44","Operating normally","Up to date","1","C:\ProgramData\Microsoft\Windows\Hyper-V","2/8/2024 10:30:22 AM","False",,"5.0","Requested By :Dnyneshwar Panchal
+Application Server: CPluas Application SRV
+IP: 172.29.74.99
+Duration: Permanent
+OS: Windows 2016 STD
+Created BY : Prasannavithal on 8th-Feb-24
+Pass: @t@
+
+In Use, confirmed by Dnyneshwar Panchal on 24-May-2024. 
+
+","Network Adapter","G:\BG4PHS022APPSRVM\BG4PHS022APPSRVM.vhdx","G:\BG4PHS022APPSRVM\BG4PHS022APPSRVM.vhdx","700","98.85","172.29.74.99, fe80::8400:40ba:7a4b:c4ad",,"Requested By :Dnyneshwar Panchal
+Application Server: CPluas Application SRV
+IP: 172.29.74.99
+Duration: Permanent
+OS: Windows 2016 STD
+Created BY : Prasannavithal on 8th-Feb-24
+Pass: @t@
+
+In Use, confirmed by Dnyneshwar Panchal on 24-May-2024. 
+
+"
+"BG4PHS022HYDUBTVM01","4426f107-a683-46bd-84a1-b9f8852b3583","Running","0","8","236.21:49:26","Operating normally","","1","E:\BG4PHS022HYDUBTVM01\BG4PHS022HYDUBTVM01","9/6/2018 10:15:39 AM","False",,"5.0","Hosted Server : BGLBG4PHS022
+VM NAME : BG4PHS022HYDUBTVM01
+Host Name: adept.sonata-software.com
+IP address: 172.29.67.16
+Username : sonata
+Pwd : sonata@123
+Owner : Baskar Arunachalam
+Created Date : 6/9/2018
+Created by : Girish R	
+Project : Used for Adept LDAP
+
+NOTE : Previous VM is not turning on so took back up of VHD and created new VM on 06/09/2018
+
+Mail sent for verification on 31-May-22
+
+In use, confirmed by Dnyaneshwar Panchal. Verified by Manjunath Hegde on 24-May-2024. 
+
+
+","Network Adapter","E:\BG4PHS022HYDUBTVM01\BGLHYDUBTVM01_02E53513-AC53-42AF-AE89-E1ADF3F69CD7.avhdx","E:\BG4PHS022HYDUBTVM01\BGLHYDUBTVM01_02E53513-AC53-42AF-AE89-E1ADF3F69CD7.avhdx","300","6.91","",,"Hosted Server : BGLBG4PHS022
+VM NAME : BG4PHS022HYDUBTVM01
+Host Name: adept.sonata-software.com
+IP address: 172.29.67.16
+Username : sonata
+Pwd : sonata@123
+Owner : Baskar Arunachalam
+Created Date : 6/9/2018
+Created by : Girish R	
+Project : Used for Adept LDAP
+
+NOTE : Previous VM is not turning on so took back up of VHD and created new VM on 06/09/2018
+
+Mail sent for verification on 31-May-22
+
+In use, confirmed by Dnyaneshwar Panchal. Verified by Manjunath Hegde on 24-May-2024. 
+
+
+"
+"BG4PHS022SANDBOXVM1","a3bac5b0-87f9-4cce-8e94-763c3be3acf7","Off","0","0","00:00:00","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","3/3/2023 4:38:05 PM","False",,"5.0","Host Name: BG4PHS022SANDBOXVM1
+IP: 172.29.74.42
+OS: Windows Server 2019 Standard
+
+VM Owner:Joydeep Banerjee
+Project:MetroC&C_RRCC
+Duration:3 Weeks
+User name: root,admin
+password: sonata@123
+Created by: Pavan
+Created on : 3-March-2023
+
+Turned off by Manjunath Hegde on 28-May-2024, confirmed by Joydeep Banerjee. ","Network Adapter","F:\BG4PHS022SANDBOXVM1\BG4PHS022SANDBOXVM1.vhdx","F:\BG4PHS022SANDBOXVM1\BG4PHS022SANDBOXVM1.vhdx","150","22","",,"Host Name: BG4PHS022SANDBOXVM1
+IP: 172.29.74.42
+OS: Windows Server 2019 Standard
+
+VM Owner:Joydeep Banerjee
+Project:MetroC&C_RRCC
+Duration:3 Weeks
+User name: root,admin
+password: sonata@123
+Created by: Pavan
+Created on : 3-March-2023
+
+Turned off by Manjunath Hegde on 28-May-2024, confirmed by Joydeep Banerjee. "
+"BG4PHS022SANDBOXVM2","2041782c-952f-4dc7-b3e0-31ef1140f846","Off","0","0","00:00:00","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","3/3/2023 4:39:03 PM","False",,"5.0","IP: 172.29.74.23 
+VM Owner:Joydeep Banerjee
+Project:MetroC&C_RRCC
+Duration:3 Weeks
+User name: root,admin
+password: sonata@123
+Created by: Pavan
+Created on : 3-March-2023
+OS: CentOS Linux 7
+
+Turned off by Manjunath Hegde on 28-May-2024, confirmed by Joydeep Banerjee.","Network Adapter","F:\BG4PHS022SANDBOXVM2\BG4PHS022SANDBOXVM2.vhdx","F:\BG4PHS022SANDBOXVM2\BG4PHS022SANDBOXVM2.vhdx","150","8.32","",,"IP: 172.29.74.23 
+VM Owner:Joydeep Banerjee
+Project:MetroC&C_RRCC
+Duration:3 Weeks
+User name: root,admin
+password: sonata@123
+Created by: Pavan
+Created on : 3-March-2023
+OS: CentOS Linux 7
+
+Turned off by Manjunath Hegde on 28-May-2024, confirmed by Joydeep Banerjee."
+"BG4PHS022TESTADEPT","ebe404fe-c212-43b2-9745-f3d570b3192c","Off","0","0","00:00:00","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","7/23/2020 3:20:11 PM","False",,"5.0","Requested by: Bashkar Arunachalam
+GH : Mahesh Karnam
+Duration : Permanent 
+Created by : Praveen KM
+Created On: 23July2020
+Hostname: BG4PHS022TESTADEPT
+Project : Adept
+IP : 172.29.67.57
+User name:sonata, root
+password: pass@word1, sonata@123
+OS: Ubuntu 14.04
+
+
+VM is turned off by Manjunath Hegde on 24-May-2024, confirmed by Baskar Arunachalam. ","Network Adapter","F:\BG4PHS022TESTADEPT\BGLHYDUBTVM01_B05DB57D-938B-4696-8631-5393223B8EEC.avhdx","F:\BG4PHS022TESTADEPT\BGLHYDUBTVM01_B05DB57D-938B-4696-8631-5393223B8EEC.avhdx","300","0.06","",,"Requested by: Bashkar Arunachalam
+GH : Mahesh Karnam
+Duration : Permanent 
+Created by : Praveen KM
+Created On: 23July2020
+Hostname: BG4PHS022TESTADEPT
+Project : Adept
+IP : 172.29.67.57
+User name:sonata, root
+password: pass@word1, sonata@123
+OS: Ubuntu 14.04
+
+
+VM is turned off by Manjunath Hegde on 24-May-2024, confirmed by Baskar Arunachalam. "
+"BG4PHS024BG4WS1260","e9e8e412-e99e-4ab7-9468-2388ea6738d2","Off","0","0","00:00:00","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","11/2/2022 9:42:16 PM","False",,"5.0","Win 10
+
+Rakshita Kulkarni
+
+Anil Kumar Nandargi (16096)
+
+VM is paused by Manjunath Hegde on 24-May-2024.
+
+VM is turned off by Manjunath Hegde on 05-Jun-2024, since there is no response from the user end.","Network Adapter","G:\bg4ws1260\Windows 10 Machine_DD300BDB-3E1C-4052-A74B-E3CB688D208C.avhdx","G:\bg4ws1260\Windows 10 Machine_DD300BDB-3E1C-4052-A74B-E3CB688D208C.avhdx","200","47.85","",,"Win 10
+
+Rakshita Kulkarni
+
+Anil Kumar Nandargi (16096)
+
+VM is paused by Manjunath Hegde on 24-May-2024.
+
+VM is turned off by Manjunath Hegde on 05-Jun-2024, since there is no response from the user end."
+"BGLBG4CRCTVAL","c4f7043c-94c0-4221-85fc-a741af9d2659","Off","0","0","00:00:00","Operating normally","","1","F:\AUSSCDEV01_Cloned\BGLBG4CRCTVAL","7/20/2016 4:11:14 PM","False",,"5.0","#CLUSTER-INVARIANT#:{6160464b-5d33-40bc-b344-40aaa713fa66}
+
+In use. Verified on 8-Jun-22
+
+
+Host Name & Domain: AUSSCDEV01.GLOBUS.COM.AU
+IP: 172.29.67.31
+
+
+No User details hence Paused by Manjunath Hegde on 31-May-2024.
+
+VM is turned off by Manjunath Hegde on 05-Jun-2024, since no one has contacted back to turn on the VM. ","Network Adapter","I:\vhdd\VHD2.vhd, I:\vhdd\vhd.vhd","I:\vhdd\VHD2.vhd","80","80","",,"#CLUSTER-INVARIANT#:{6160464b-5d33-40bc-b344-40aaa713fa66}
+
+In use. Verified on 8-Jun-22
+
+
+Host Name & Domain: AUSSCDEV01.GLOBUS.COM.AU
+IP: 172.29.67.31
+
+
+No User details hence Paused by Manjunath Hegde on 31-May-2024.
+
+VM is turned off by Manjunath Hegde on 05-Jun-2024, since no one has contacted back to turn on the VM. "
+"BGLBG4CRCTVAL","c4f7043c-94c0-4221-85fc-a741af9d2659","Off","0","0","00:00:00","Operating normally","","1","F:\AUSSCDEV01_Cloned\BGLBG4CRCTVAL","7/20/2016 4:11:14 PM","False",,"5.0","#CLUSTER-INVARIANT#:{6160464b-5d33-40bc-b344-40aaa713fa66}
+
+In use. Verified on 8-Jun-22
+
+
+Host Name & Domain: AUSSCDEV01.GLOBUS.COM.AU
+IP: 172.29.67.31
+
+
+No User details hence Paused by Manjunath Hegde on 31-May-2024.
+
+VM is turned off by Manjunath Hegde on 05-Jun-2024, since no one has contacted back to turn on the VM. ","Network Adapter","I:\vhdd\VHD2.vhd, I:\vhdd\vhd.vhd","I:\vhdd\vhd.vhd","100","100","",,"#CLUSTER-INVARIANT#:{6160464b-5d33-40bc-b344-40aaa713fa66}
+
+In use. Verified on 8-Jun-22
+
+
+Host Name & Domain: AUSSCDEV01.GLOBUS.COM.AU
+IP: 172.29.67.31
+
+
+No User details hence Paused by Manjunath Hegde on 31-May-2024.
+
+VM is turned off by Manjunath Hegde on 05-Jun-2024, since no one has contacted back to turn on the VM. "
+"BGLBG4PHS022_ApplicationTesting","be99dde6-084e-4efd-a56a-f7f12ac43a61","Paused","0","32","20.23:12:23","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","10/20/2023 12:52:57 PM","False",,"5.0","Requested by: 22747 Neha Chandra C
+GH : Swathi P
+Duration : 2 Months
+Created by : Srinivasa KP
+Created On: 20 Oct 2023
+Hostname: BGLBG4PHS022_ApplicationTesting
+Project : MH_Testing_StoreCommMigr_Off
+IP : 172.29.67.18
+User name: administrator
+password: pass@word1
+OS: Windows 10, 22H2
+
+VM is Paused by Manjunath Hegde on 05-Jun-2024, user is not responded. Before turning on please contact me. ","Network Adapter","F:\BGLBG4PHS022_ApplicationTesting\BGLBG4PHS022_ApplicationTesting.vhdx","F:\BGLBG4PHS022_ApplicationTesting\BGLBG4PHS022_ApplicationTesting.vhdx","200","86.97","",,"Requested by: 22747 Neha Chandra C
+GH : Swathi P
+Duration : 2 Months
+Created by : Srinivasa KP
+Created On: 20 Oct 2023
+Hostname: BGLBG4PHS022_ApplicationTesting
+Project : MH_Testing_StoreCommMigr_Off
+IP : 172.29.67.18
+User name: administrator
+password: pass@word1
+OS: Windows 10, 22H2
+
+VM is Paused by Manjunath Hegde on 05-Jun-2024, user is not responded. Before turning on please contact me. "
+"BGLBG4PHS022AZRVM22","f9242c7c-a0ba-468a-98f6-f5f2e27d1701","Running","0","10","546.21:39:13","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","12/7/2022 8:27:51 PM","False",,"5.0","GitLab- Training VM
+
+Hostname: sonata-virtual-machine
+IP: 172.29.67.14
+OS: Ubuntu 20.04.2
+sonata/sonata@123
+Owner: Jayashree R (6467)
+PM: Karthika Singireddy (4931)
+Project: Training Team
+Duration: Permanent
+
+
+In Use, confirmed by Jayashree R on 10-JUN-2024. 
+
+","Network Adapter","G:\GV_VMS\BGLBG4AZRVM22\BGLBG4PHS022AZRVM22_219F5BE3-0DF3-4B18-BF9E-726CB31BAA8D.avhdx","G:\GV_VMS\BGLBG4AZRVM22\BGLBG4PHS022AZRVM22_219F5BE3-0DF3-4B18-BF9E-726CB31BAA8D.avhdx","300","79","",,"GitLab- Training VM
+
+Hostname: sonata-virtual-machine
+IP: 172.29.67.14
+OS: Ubuntu 20.04.2
+sonata/sonata@123
+Owner: Jayashree R (6467)
+PM: Karthika Singireddy (4931)
+Project: Training Team
+Duration: Permanent
+
+
+In Use, confirmed by Jayashree R on 10-JUN-2024. 
+
+"
+"BGLBG4PHS022GITRSVMNEW","03045ed7-4266-48fb-afd7-9c04dba8d0a0","Running","0","16","261.17:18:37","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","3/5/2020 1:03:38 PM","False",,"5.0","Requested by : Baskare Arunachalam
+Host Name: BG4PHS022GITRESVM
+
+IP: 172.29.42.243 
+
+Login ID: sonata
+
+Password: sonata@123
+
+OS: Ubuntu 14.04
+
+In use, confirmed by Baskar Arunachalam. Verified by Manjunath Hegde on 24-May-2024. ","Network Adapter","F:\BG4PHS022GITRESVM\BG4PHS022GITRESVM_8ABBE423-07DC-4101-82A3-5806C4E2D682.avhdx, E:\BG4PHS022GITRESVM\SDA_EEF3B319-4B03-4FE8-9ABF-9ED239713EA0.avhdx","F:\BG4PHS022GITRESVM\BG4PHS022GITRESVM_8ABBE423-07DC-4101-82A3-5806C4E2D682.avhdx","500","188.61","",,"Requested by : Baskare Arunachalam
+Host Name: BG4PHS022GITRESVM
+
+IP: 172.29.42.243 
+
+Login ID: sonata
+
+Password: sonata@123
+
+OS: Ubuntu 14.04
+
+In use, confirmed by Baskar Arunachalam. Verified by Manjunath Hegde on 24-May-2024. "
+"BGLBG4PHS022GITRSVMNEW","03045ed7-4266-48fb-afd7-9c04dba8d0a0","Running","0","16","261.17:18:38","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","3/5/2020 1:03:38 PM","False",,"5.0","Requested by : Baskare Arunachalam
+Host Name: BG4PHS022GITRESVM
+
+IP: 172.29.42.243 
+
+Login ID: sonata
+
+Password: sonata@123
+
+OS: Ubuntu 14.04
+
+In use, confirmed by Baskar Arunachalam. Verified by Manjunath Hegde on 24-May-2024. ","Network Adapter","F:\BG4PHS022GITRESVM\BG4PHS022GITRESVM_8ABBE423-07DC-4101-82A3-5806C4E2D682.avhdx, E:\BG4PHS022GITRESVM\SDA_EEF3B319-4B03-4FE8-9ABF-9ED239713EA0.avhdx","E:\BG4PHS022GITRESVM\SDA_EEF3B319-4B03-4FE8-9ABF-9ED239713EA0.avhdx","350","328.63","",,"Requested by : Baskare Arunachalam
+Host Name: BG4PHS022GITRESVM
+
+IP: 172.29.42.243 
+
+Login ID: sonata
+
+Password: sonata@123
+
+OS: Ubuntu 14.04
+
+In use, confirmed by Baskar Arunachalam. Verified by Manjunath Hegde on 24-May-2024. "
+"BGLBG4PHS022-Ubuntu","3bccb65f-f08b-438d-ae5d-953ae071709b","Paused","0","8","91.03:58:37","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","2/26/2024 8:40:59 PM","False",,"5.0","
+VM is Paused by Manjunath Hegde on 05-Jun-2024, no user details hence before turning on pls contact me. ","Network Adapter","G:\BGLBG4PHS022-Ubuntu\BGLBG4PHS022-Ubuntu.vhdx","G:\BGLBG4PHS022-Ubuntu\BGLBG4PHS022-Ubuntu.vhdx","200","25.69","",,"
+VM is Paused by Manjunath Hegde on 05-Jun-2024, no user details hence before turning on pls contact me. "
+"BGLBG4QTRNRVM_New","e056a15d-8307-41f5-b5bb-95440b1fae35","Off","0","0","00:00:00","Operating normally","","1","H:\BGLBG4QTRNRVM\BGLBG4QTRNRVM_New","9/5/2018 9:49:40 AM","False",,"5.0","Hosted on   : BGLBG4PHS022
+VM hostname :BGBG4QTRNRVM_New
+IP          : 172.29.80.84
+User name   : .\administrator
+password    : sonata@123
+Requested by : Nirav Thakker (13301)
+Created by : Girish R
+Created Date : 5-9-2018 (Old VM is not turning on and created new vm and mapped with same vhd)
+Duration : Permanent
+Project : Qatar
+GH : Keshav Kumar Anchala
+OS: Windows Server 2012 R2 Standard
+
+VM is turned off by Manjunath Hegde on 24-May-2024, confirmed by Arvind Reddy M (16836).","Network Adapter","H:\BGLBG4QTRNRVM\BGLBG4QTRNRVM\Virtual Hard Disks\BGLBG4QTRNRVM.vhdx","H:\BGLBG4QTRNRVM\BGLBG4QTRNRVM\Virtual Hard Disks\BGLBG4QTRNRVM.vhdx","256","186.91","",,"Hosted on   : BGLBG4PHS022
+VM hostname :BGBG4QTRNRVM_New
+IP          : 172.29.80.84
+User name   : .\administrator
+password    : sonata@123
+Requested by : Nirav Thakker (13301)
+Created by : Girish R
+Created Date : 5-9-2018 (Old VM is not turning on and created new vm and mapped with same vhd)
+Duration : Permanent
+Project : Qatar
+GH : Keshav Kumar Anchala
+OS: Windows Server 2012 R2 Standard
+
+VM is turned off by Manjunath Hegde on 24-May-2024, confirmed by Arvind Reddy M (16836)."

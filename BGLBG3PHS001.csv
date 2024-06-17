@@ -1,0 +1,325 @@
+"VMName","VMId","State","CPUUsage","MemoryAssignedGB","Uptime","Status","IntegrationServicesState","Generation","Path","CreationTime","IsClustered","IsHighlyAvailable","Version","Notes","NetworkAdapters","HardDrives","VhdPath","VhdSizeGB","VhdSizeOnDiskGB","IPAddresses","ManagementName","Records"
+"BG3PHS001TUI","90725d52-bfeb-4b84-a688-acfd57208f41","Off","0","0","00:00:00","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","5/23/2021 7:59:16 AM","False",,"5.0","Hosted server :BGLBG3PHS001
+VM IP : 10.174.17.121
+Requested by :abhinav.abhi
+login id: sonata & root
+Password: sonata@123
+Created date: 23-May-21
+Created by : Praveen KM
+Duration : Permenant 
+Project: TUI
+Ticket:901-959
+OS: Ubuntu 16.04.3
+
+VM is paused on 22-May-2024. No one has come back. 
+
+VM is turned off by Manjunath Hegde on 31-May-2024. Before turning on pls contact me. 
+
+","Network Adapter","F:\BG3PHS001TUI\BG3PHS001TUI.vhdx","F:\BG3PHS001TUI\BG3PHS001TUI.vhdx","300","43.1","",,"Hosted server :BGLBG3PHS001
+VM IP : 10.174.17.121
+Requested by :abhinav.abhi
+login id: sonata & root
+Password: sonata@123
+Created date: 23-May-21
+Created by : Praveen KM
+Duration : Permenant 
+Project: TUI
+Ticket:901-959
+OS: Ubuntu 16.04.3
+
+VM is paused on 22-May-2024. No one has come back. 
+
+VM is turned off by Manjunath Hegde on 31-May-2024. Before turning on pls contact me. 
+
+"
+"BG3PHS001VMAV01","b0ac43ac-48e5-40d4-8212-f93f4a5303e7","Off","0","0","00:00:00","Operating normally","","1","F:\BG3PHS001VMAV01\BG3PHS001VMAV01","1/1/1601 5:30:00 AM","False",,"5.0","","Network Adapter","F:\BG3PHS001VMAV01\BG3PHS001VMAV01\Virtual Hard Disks\BG3PHS001VMAV01.vhdx","F:\BG3PHS001VMAV01\BG3PHS001VMAV01\Virtual Hard Disks\BG3PHS001VMAV01.vhdx","500","55.19","",,""
+"BG3PHS001VMCPLTEST01","1b3b4b6a-182a-49cd-ac1b-e59fe1c11ddf","Off","0","0","00:00:00","Operating normally","","1","F:\BG3PHS001VMCPLTEST01\BG3PHS001VMCPLTEST01","7/28/2021 12:09:38 PM","False",,"5.0","New ip address:172.29.74.29
+Username : Administrator
+Password  : pass@word1
+Requested BY: Subhendu Ranjan Behera 
+Project Manager: Vivekchandra Sinha
+Project name :CPL Aroma
+Ticket number:915-035
+Duration : 2 years
+
+Remarks :It is D365 test enivorment for practice purpose 
+","Network Adapter","F:\BG3PHS001VMCPLTEST01\D365-10.0.13\FinandOps10.0.13.vhd","F:\BG3PHS001VMCPLTEST01\D365-10.0.13\FinandOps10.0.13.vhd","127","113.43","",,"New ip address:172.29.74.29
+Username : Administrator
+Password  : pass@word1
+Requested BY: Subhendu Ranjan Behera 
+Project Manager: Vivekchandra Sinha
+Project name :CPL Aroma
+Ticket number:915-035
+Duration : 2 years
+
+Remarks :It is D365 test enivorment for practice purpose 
+"
+"BG3PHS001VMCPLTEST02","5dc03bff-3772-4fe4-9119-83c0edf5cc03","Off","0","0","00:00:00","Operating normally","","1","F:\BG3PHS001VMCPLTEST02\BG3PHS001VMCPLTEST02","7/28/2021 4:09:21 PM","False",,"5.0","New ip address:172.29.74.31
+Username : Administrator
+Password  : pass@word1
+Requested BY: Subhendu Ranjan Behera 
+Project Manager: Vivekchandra Sinha
+Project name :CPL Aroma
+Ticket number:915-035
+Duration : 2 years
+
+Remarks :It is D365 test enivorment for practice purpose 
+","Network Adapter","F:\BG3PHS001VMCPLTEST02\D365-10.0.13\FinandOps10.0.13.vhd","F:\BG3PHS001VMCPLTEST02\D365-10.0.13\FinandOps10.0.13.vhd","127","113.73","",,"New ip address:172.29.74.31
+Username : Administrator
+Password  : pass@word1
+Requested BY: Subhendu Ranjan Behera 
+Project Manager: Vivekchandra Sinha
+Project name :CPL Aroma
+Ticket number:915-035
+Duration : 2 years
+
+Remarks :It is D365 test enivorment for practice purpose 
+"
+"BG3PHS001VMSAP","f80bd311-bc7a-4513-b173-e38e2d74f41c","Running","0","15.98","289.20:30:32","Operating normally","Up to date","1","C:\ProgramData\Microsoft\Windows\Hyper-V","7/9/2020 1:28:14 PM","False",,"5.0","
+IP:172.29.74.14
+Hostname: BG3PHS001VMSAP
+Password: S0n@t@123
+Requested BY: Vinay A N ((23434) 
+Project Manager: Charandeep N (8259)
+Project name : Competency
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393 )
+Duration: Permanent.
+
+
+In Use, confirmed by Vinay A N (23434) . Verified by Arul S on 29-May-2024. 
+","Network Adapter","F:\BG3PHS001VMSAP\BG3PHS001VMSAP.vhdx","F:\BG3PHS001VMSAP\BG3PHS001VMSAP.vhdx","700","675.04","172.29.74.43, fe80::81cd:a9e6:6255:fcba",,"
+IP:172.29.74.14
+Hostname: BG3PHS001VMSAP
+Password: S0n@t@123
+Requested BY: Vinay A N ((23434) 
+Project Manager: Charandeep N (8259)
+Project name : Competency
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393 )
+Duration: Permanent.
+
+
+In Use, confirmed by Vinay A N (23434) . Verified by Arul S on 29-May-2024. 
+"
+"BG3PHS001WAVEVM01","e203bbfc-dabf-4a91-a004-a7b7f78c0960","Off","0","0","00:00:00","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","1/1/1601 5:30:00 AM","False",,"5.0","New ip address:172.29.67.12
+Old Ip Address: 172.28.42.105
+Username : Administrator
+Password  : sonata@123
+Requested BY: Vijay Venkatesh v
+Project Manager: Geeta B Sunkapur
+Project name : ALCON
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393 )
+","Network Adapter","F:\SERVER VM\BG3PHS001WAVEVM01\BG3PHS001WAVEVM01_817DFC55-04C1-4D04-A3DA-5BE9B062C0A7.avhdx, F:\SERVER VM\BG3PHS001WAVEVM01\BG3PHS001WAVEVM01.D-DRIVE\New Virtual Hard Disk_8315B107-6F7E-4411-890B-CED9FAFFAAF6.avhdx, F:\SERVER VM\BG3PHS001WAVEVM01\BG3PHS001WAVEVM01.E-DRIVE\BG3PHS001WAVEVM01.E-DRIVE.vhdx","F:\SERVER VM\BG3PHS001WAVEVM01\BG3PHS001WAVEVM01_817DFC55-04C1-4D04-A3DA-5BE9B062C0A7.avhdx","200","183","",,"New ip address:172.29.67.12
+Old Ip Address: 172.28.42.105
+Username : Administrator
+Password  : sonata@123
+Requested BY: Vijay Venkatesh v
+Project Manager: Geeta B Sunkapur
+Project name : ALCON
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393 )
+"
+"BG3PHS001WAVEVM01","e203bbfc-dabf-4a91-a004-a7b7f78c0960","Off","0","0","00:00:00","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","1/1/1601 5:30:00 AM","False",,"5.0","New ip address:172.29.67.12
+Old Ip Address: 172.28.42.105
+Username : Administrator
+Password  : sonata@123
+Requested BY: Vijay Venkatesh v
+Project Manager: Geeta B Sunkapur
+Project name : ALCON
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393 )
+","Network Adapter","F:\SERVER VM\BG3PHS001WAVEVM01\BG3PHS001WAVEVM01_817DFC55-04C1-4D04-A3DA-5BE9B062C0A7.avhdx, F:\SERVER VM\BG3PHS001WAVEVM01\BG3PHS001WAVEVM01.D-DRIVE\New Virtual Hard Disk_8315B107-6F7E-4411-890B-CED9FAFFAAF6.avhdx, F:\SERVER VM\BG3PHS001WAVEVM01\BG3PHS001WAVEVM01.E-DRIVE\BG3PHS001WAVEVM01.E-DRIVE.vhdx","F:\SERVER VM\BG3PHS001WAVEVM01\BG3PHS001WAVEVM01.D-DRIVE\New Virtual Hard Disk_8315B107-6F7E-4411-890B-CED9FAFFAAF6.avhdx","500","478.01","",,"New ip address:172.29.67.12
+Old Ip Address: 172.28.42.105
+Username : Administrator
+Password  : sonata@123
+Requested BY: Vijay Venkatesh v
+Project Manager: Geeta B Sunkapur
+Project name : ALCON
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393 )
+"
+"BG3PHS001WAVEVM01","e203bbfc-dabf-4a91-a004-a7b7f78c0960","Off","0","0","00:00:00","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","1/1/1601 5:30:00 AM","False",,"5.0","New ip address:172.29.67.12
+Old Ip Address: 172.28.42.105
+Username : Administrator
+Password  : sonata@123
+Requested BY: Vijay Venkatesh v
+Project Manager: Geeta B Sunkapur
+Project name : ALCON
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393 )
+","Network Adapter","F:\SERVER VM\BG3PHS001WAVEVM01\BG3PHS001WAVEVM01_817DFC55-04C1-4D04-A3DA-5BE9B062C0A7.avhdx, F:\SERVER VM\BG3PHS001WAVEVM01\BG3PHS001WAVEVM01.D-DRIVE\New Virtual Hard Disk_8315B107-6F7E-4411-890B-CED9FAFFAAF6.avhdx, F:\SERVER VM\BG3PHS001WAVEVM01\BG3PHS001WAVEVM01.E-DRIVE\BG3PHS001WAVEVM01.E-DRIVE.vhdx","F:\SERVER VM\BG3PHS001WAVEVM01\BG3PHS001WAVEVM01.E-DRIVE\BG3PHS001WAVEVM01.E-DRIVE.vhdx","500","500","",,"New ip address:172.29.67.12
+Old Ip Address: 172.28.42.105
+Username : Administrator
+Password  : sonata@123
+Requested BY: Vijay Venkatesh v
+Project Manager: Geeta B Sunkapur
+Project name : ALCON
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393 )
+"
+"BG3PHS01POWERAUTO","0768c911-ffa8-4748-b1cb-5a4120007ea1","Off","0","0","00:00:00","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","10/10/2020 6:00:17 PM","False",,"5.0","VM hostname: BG3PHS01POWERAUTO
+VM server : BGLBG3PHS001
+Vm IP : 172.29.60.10
+Login ID  : Administrator
+Password : pass@word1
+Requested By :Sathish Kumar S (3003)
+Created By     : Praveen KM
+Duration          : 3 Months
+Created date  : 10-Oct-2020
+Expiry Date     : 10-April-2021
+Tickt number   :SaaSC3=861-825","Network Adapter","D:\BG3PHS01POWERAUTO\FinandOps10.0.vhd","D:\BG3PHS01POWERAUTO\FinandOps10.0.vhd","127","126.14","",,"VM hostname: BG3PHS01POWERAUTO
+VM server : BGLBG3PHS001
+Vm IP : 172.29.60.10
+Login ID  : Administrator
+Password : pass@word1
+Requested By :Sathish Kumar S (3003)
+Created By     : Praveen KM
+Duration          : 3 Months
+Created date  : 10-Oct-2020
+Expiry Date     : 10-April-2021
+Tickt number   :SaaSC3=861-825"
+"BGLBG1ALCONVM","e15461c5-3dfc-445f-bbda-6f4a0447e896","Off","0","0","00:00:00","Operating normally","","1","D:\BG1VM\BGLBG1ALCONVM\BGLBG1ALCONVM","1/1/1601 5:30:00 AM","False",,"5.0","VM-Name:BGLBG1ALCONVM
+Host NameName:BGLBG1ALCONVM
+IP:172.28.60.64
+RAM:6GB 
+HDD -200
+username: SONATA (Local User)
+password: password$1
+project: ""  ALCON
+Requested by : Geet B sunkapur  <geeta.b@sonata-software.com>
+Created by - Santhosh
+job id:364-635
+#CLUSTER-INVARIANT#:{43b60931-5510-41b3-8d34-cfa03cf7d712}","","D:\BG1VM\BGLBG1ALCONVM\BGLBG1ALCONVM\Virtual Hard Disks\BGLBG1ALCONVM.vhdx","D:\BG1VM\BGLBG1ALCONVM\BGLBG1ALCONVM\Virtual Hard Disks\BGLBG1ALCONVM.vhdx","500","234.54","",,"VM-Name:BGLBG1ALCONVM
+Host NameName:BGLBG1ALCONVM
+IP:172.28.60.64
+RAM:6GB 
+HDD -200
+username: SONATA (Local User)
+password: password$1
+project: ""  ALCON
+Requested by : Geet B sunkapur  <geeta.b@sonata-software.com>
+Created by - Santhosh
+job id:364-635
+#CLUSTER-INVARIANT#:{43b60931-5510-41b3-8d34-cfa03cf7d712}"
+"BGLBG3DBMAS01","5fe90178-4065-40c6-b95b-a46d08b5237d","Off","0","0","00:00:00","Operating normally","","1","D:\BGLBG3DBMAS01\BGLBG3DBMAS01","1/1/1601 5:30:00 AM","False",,"5.0","#CLUSTER-INVARIANT#:{73691a01-4df2-40b6-a271-33f251d35bc0}
+OS: Windows 2012 R2
+IP: 10.174.1.55
+Requested By: Dharmaraj.p/shashikala.g","","D:\BGLBG3DBMAS01\BGLBG3DBMAS01\Virtual Hard Disks\BGLBG3DBMAS01_49E8A779-C01E-432A-9FC9-D9A4670277D0.avhdx","D:\BGLBG3DBMAS01\BGLBG3DBMAS01\Virtual Hard Disks\BGLBG3DBMAS01_49E8A779-C01E-432A-9FC9-D9A4670277D0.avhdx","100","8.13","",,"#CLUSTER-INVARIANT#:{73691a01-4df2-40b6-a271-33f251d35bc0}
+OS: Windows 2012 R2
+IP: 10.174.1.55
+Requested By: Dharmaraj.p/shashikala.g"
+"BGLBG3HRVM02","e06e52cf-f13b-41ad-9112-1e1e7c5fdea1","Off","0","0","00:00:00","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","1/1/1601 5:30:00 AM","False",,"5.0","IP:172.29.67.88 (old IP- 172.28.60.67 )
+Hostname:BGLBG3HRVM02
+Password:sonata@123
+Requested By:Lokesh CM HR
+Time Periode:permanent.
+OS: Windows 10, Version 22H2 (Build 19045)
+
+Turned off by Manjunath Hegde on 16-May-2024 since VM was in Paused State for more than 6 months. ","Network Adapter","F:\HR VM\BGLBG3HRVM02_F93E61BB-1A0D-4175-AAB4-73029F3C7A17.avhdx","F:\HR VM\BGLBG3HRVM02_F93E61BB-1A0D-4175-AAB4-73029F3C7A17.avhdx","90","3.41","",,"IP:172.29.67.88 (old IP- 172.28.60.67 )
+Hostname:BGLBG3HRVM02
+Password:sonata@123
+Requested By:Lokesh CM HR
+Time Periode:permanent.
+OS: Windows 10, Version 22H2 (Build 19045)
+
+Turned off by Manjunath Hegde on 16-May-2024 since VM was in Paused State for more than 6 months. "
+"BGLBG3RPDCVM01","fc677884-b1d9-40ea-95b9-6b75a7b4cfaa","Off","0","0","00:00:00","Operating normally","","1","D:\BGLBG3RPDCVM01\BGLBG3RPDCVM01","10/3/2016 3:09:44 PM","False",,"5.0","#CLUSTER-INVARIANT#:{58ddadd2-bbc4-42ed-b905-c0ef9de89289}
+
+
+HostName: BGLBG3RPDC01
+IPv4: 172.29.67.61 
+SSLRPODC.LOCAL DC
+OS: Windows Server 2012 R2 Standard, Version 6.3 (Build 9600 )
+
+user name: administrator
+password: ""whistler@bg3""
+(IP: 192.168.33.10)
+
+VM is paused on 22-May-2024. No one has come back. 
+
+VM is turned off by Manjunath Hegde on 31-May-2024. Before turning on pls contact me. ","Network Adapter","D:\BGLBG3RPDCVM01\BGLBG3RPDCVM01\Virtual Hard Disks\BGLBG3RPDCVM01_F54F222E-863C-4618-83E3-D555B512570E.avhdx","D:\BGLBG3RPDCVM01\BGLBG3RPDCVM01\Virtual Hard Disks\BGLBG3RPDCVM01_F54F222E-863C-4618-83E3-D555B512570E.avhdx","600","11.37","",,"#CLUSTER-INVARIANT#:{58ddadd2-bbc4-42ed-b905-c0ef9de89289}
+
+
+HostName: BGLBG3RPDC01
+IPv4: 172.29.67.61 
+SSLRPODC.LOCAL DC
+OS: Windows Server 2012 R2 Standard, Version 6.3 (Build 9600 )
+
+user name: administrator
+password: ""whistler@bg3""
+(IP: 192.168.33.10)
+
+VM is paused on 22-May-2024. No one has come back. 
+
+VM is turned off by Manjunath Hegde on 31-May-2024. Before turning on pls contact me. "
+"BGLBG3VMTEST2016","721ee20e-83f7-4870-b4bb-2bebf93600a8","Off","0","0","00:00:00","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","1/1/1601 5:30:00 AM","False",,"5.0","","","C:\Users\Public\Documents\Hyper-V\Virtual Hard Disks\BGLBG3VMTEST2016.vhdx","C:\Users\Public\Documents\Hyper-V\Virtual Hard Disks\BGLBG3VMTEST2016.vhdx","200","33.72","",,""
+"BGLBG3WSUS03","46a1d1a6-56d6-4d68-8a2b-aed82bad591f","Off","0","0","00:00:00","Operating normally","","1","D:\BGLBG3WSUS03\BGLBG3WSUS03","1/1/1601 5:30:00 AM","False",,"5.0","#CLUSTER-INVARIANT#:{ac97d20e-79c2-4c8a-bb7a-9a8f35f41b97}","","D:\BGLBG3WSUS03\BGLBG3WSUS03\Virtual Hard Disks\BGLBG3WSUS03_00ACB2F4-9A67-4A0D-8743-48644BCDD2EA.avhdx","D:\BGLBG3WSUS03\BGLBG3WSUS03\Virtual Hard Disks\BGLBG3WSUS03_00ACB2F4-9A67-4A0D-8743-48644BCDD2EA.avhdx","200","6.84","",,"#CLUSTER-INVARIANT#:{ac97d20e-79c2-4c8a-bb7a-9a8f35f41b97}"
+"BGLBG4AXCIVM01","410eb59f-2222-4700-8047-1f68dbab8123","Off","0","0","00:00:00","Operating normally","","1","D:\BGLBG4AXCIVM01\BGLBG4AXCIVM01","1/1/1601 5:30:00 AM","False",,"5.0","#CLUSTER-INVARIANT#:{1886f8e1-1b4e-468f-abfb-060ea4dd9654}
+
+
+Requested User : vijaykumar.k
+Ip : 172.28.42.87","","D:\HMP D365fO U3 dev machine\BGLBG4AXMCIVM01\FinandOps7.3withPlatUpdate12.vhd","D:\HMP D365fO U3 dev machine\BGLBG4AXMCIVM01\FinandOps7.3withPlatUpdate12.vhd","127","127.02","",,"#CLUSTER-INVARIANT#:{1886f8e1-1b4e-468f-abfb-060ea4dd9654}
+
+
+Requested User : vijaykumar.k
+Ip : 172.28.42.87"
+"BGLBG4PHS013BUZ","4458107a-302b-4780-9627-9082138db1dd","Running","0","8","970.17:45:26","Operating normally","Up to date","1","C:\ProgramData\Microsoft\Windows\Hyper-V","10/11/2020 11:48:32 AM","False",,"5.0","Hostname:BGLBG4PHS013BUZ
+Ip address:172.29.67.55
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393 )
+
+user name: administrator
+password: S0n@t@123
+
+Created by charan based on the request got from Deepak A (Internal IT Team)
+
+Owners: Avinash Maddikrishna / Dnyaneshwar Panchal
+Internal Apps Team
+
+In-Use Confirmed by Dnyaneshwar Panchal, Verified by Srinivasa KP on 24th May 2024. 
+","Network Adapter","F:\BGLBG4PHS013BUZ\BGLBG4PHS013BUZ.vhdx, F:\BGLBG4PHS013BUZ\Secodary_drive\BGLBG4PHS013BUZ_Secodary_drive.vhdx","F:\BGLBG4PHS013BUZ\BGLBG4PHS013BUZ.vhdx","500","76.41","172.29.67.55, fe80::45b:dd48:e22e:a541",,"Hostname:BGLBG4PHS013BUZ
+Ip address:172.29.67.55
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393 )
+
+user name: administrator
+password: S0n@t@123
+
+Created by charan based on the request got from Deepak A (Internal IT Team)
+
+Owners: Avinash Maddikrishna / Dnyaneshwar Panchal
+Internal Apps Team
+
+In-Use Confirmed by Dnyaneshwar Panchal, Verified by Srinivasa KP on 24th May 2024. 
+"
+"BGLBG4PHS013BUZ","4458107a-302b-4780-9627-9082138db1dd","Running","0","8","970.17:45:35","Operating normally","Up to date","1","C:\ProgramData\Microsoft\Windows\Hyper-V","10/11/2020 11:48:32 AM","False",,"5.0","Hostname:BGLBG4PHS013BUZ
+Ip address:172.29.67.55
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393 )
+
+user name: administrator
+password: S0n@t@123
+
+Created by charan based on the request got from Deepak A (Internal IT Team)
+
+Owners: Avinash Maddikrishna / Dnyaneshwar Panchal
+Internal Apps Team
+
+In-Use Confirmed by Dnyaneshwar Panchal, Verified by Srinivasa KP on 24th May 2024. 
+","Network Adapter","F:\BGLBG4PHS013BUZ\BGLBG4PHS013BUZ.vhdx, F:\BGLBG4PHS013BUZ\Secodary_drive\BGLBG4PHS013BUZ_Secodary_drive.vhdx","F:\BGLBG4PHS013BUZ\Secodary_drive\BGLBG4PHS013BUZ_Secodary_drive.vhdx","250","250","172.29.67.55, fe80::45b:dd48:e22e:a541",,"Hostname:BGLBG4PHS013BUZ
+Ip address:172.29.67.55
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393 )
+
+user name: administrator
+password: S0n@t@123
+
+Created by charan based on the request got from Deepak A (Internal IT Team)
+
+Owners: Avinash Maddikrishna / Dnyaneshwar Panchal
+Internal Apps Team
+
+In-Use Confirmed by Dnyaneshwar Panchal, Verified by Srinivasa KP on 24th May 2024. 
+"
+"BGLBG4SONARVM01","4717c8af-69a6-4ac1-939d-1200e79bed0a","Off","0","0","00:00:00","Operating normally","","1","F:\SERVER VM\BGLBG4SONARVM01","1/1/1601 5:30:00 AM","False",,"5.0","#CLUSTER-INVARIANT#:{4376decc-ca5c-4f18-81b9-86449408ae8a}","Network Adapter","F:\SERVER VM\BGLBG4SONARVM01\Virtual Hard Disks\BGLBG4SONARVM01_81A8A779-32C6-4A94-BD42-DA31A963A82B.avhdx","F:\SERVER VM\BGLBG4SONARVM01\Virtual Hard Disks\BGLBG4SONARVM01_81A8A779-32C6-4A94-BD42-DA31A963A82B.avhdx","300","0","",,"#CLUSTER-INVARIANT#:{4376decc-ca5c-4f18-81b9-86449408ae8a}"
+"Nagios","444ae82e-8104-4958-958d-e27a605516fa","Off","0","0","00:00:00","Operating normally","","1","D:\Nagios\Nagios","1/1/1601 5:30:00 AM","False",,"5.0","Nagios System
+
+Hostname: BG1NB488
+IP Address: 172.29.67.67	
+OS: CentOS Linux 7
+","Network Adapter","D:\Nagios\Nagios\Virtual Hard Disks\Nagios.vhdx","D:\Nagios\Nagios\Virtual Hard Disks\Nagios.vhdx","127","1.75","",,"Nagios System
+
+Hostname: BG1NB488
+IP Address: 172.29.67.67	
+OS: CentOS Linux 7
+"

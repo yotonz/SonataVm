@@ -1,0 +1,6 @@
+"VMName","VMId","State","CPUUsage","MemoryAssignedGB","Uptime","Status","IntegrationServicesState","Generation","Path","CreationTime","IsClustered","IsHighlyAvailable","Version","Notes","NetworkAdapters","HardDrives","VhdPath","VhdSizeGB","VhdSizeOnDiskGB","IPAddresses","ManagementName","Records"
+"BG4PHS027CyberarkPOC","4d2e626b-b648-4cea-873b-a8fa89de8280","Off","0","0","00:00:00","Operating normally","","1","E:\BG4PHS027CyberarkPOC\BG4PHS027CyberarkPOC","3/28/2024 12:27:19 PM","False",,"5.0","
+
+VM is not in use hence turned off by Manjunath Hegde on 10-Jun-2024, confirmed by Praveen K M. ","Network Adapter","E:\BG4PHS027CyberarkPOC\BG4PHS027CyberarkPOC\Virtual Hard Disks\BG4PHS027CyberarkPOC.vhdx","E:\BG4PHS027CyberarkPOC\BG4PHS027CyberarkPOC\Virtual Hard Disks\BG4PHS027CyberarkPOC.vhdx","200","146.47","",,"
+
+VM is not in use hence turned off by Manjunath Hegde on 10-Jun-2024, confirmed by Praveen K M. "

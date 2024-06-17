@@ -1,0 +1,246 @@
+"VMName","VMId","State","CPUUsage","MemoryAssignedGB","Uptime","Status","IntegrationServicesState","Generation","Path","CreationTime","IsClustered","IsHighlyAvailable","Version","Notes","NetworkAdapters","HardDrives","VhdPath","VhdSizeGB","VhdSizeOnDiskGB","IPAddresses","ManagementName","Records"
+"BG1APPSERVM02","f4e60ca6-39c1-4565-b6a6-07b116ffd34d","Running","0","16.45","180.00:11:43","Operating normally","Up to date","1","E:\HO VM's\BG1APPSERVM02\BG1APPSERVM02","6/17/2015 11:24:28 AM","False",,"5.0","Created By Niranjan on 17/06/2015
+Requested By Kadappa\ Mahesh K
+Owners: Avinash MK/Dnyaneshwar P/ Mahesh Karnam
+Duration : Permanent
+New Appserv
+IP: 172.29.42.106
+Do not Delete
+User Name :administtrator
+Password:s0n@t@123
+OS: Windows Server 2012 R2 Standard, Version 6.3 (Build 9600 )
+
+#CLUSTER-INVARIANT#:{4acd0d71-db5b-49aa-8986-f7a00e4f67d7}
+
+
+In Use, confirmed by Dnyaneshwar Panchal on 24-May-2024. ","Network Adapter","E:\HO VM's\BG1APPSERVM02\BG1APPSERVM02\Virtual Hard Disks\BG1APPSERVM02.vhdx","E:\HO VM's\BG1APPSERVM02\BG1APPSERVM02\Virtual Hard Disks\BG1APPSERVM02.vhdx","300","281.75","172.29.42.162, 172.29.42.161, 172.29.42.128, 172.29.42.127, 172.29.42.126, 172.29.42.125, 172.29.42.110, 172.29.42.109, 172.29.42.108, 172.29.42.107, 172.29.42.106, 172.29.42.104, fe80::2474:7c7f:41b2:1b6f",,"Created By Niranjan on 17/06/2015
+Requested By Kadappa\ Mahesh K
+Owners: Avinash MK/Dnyaneshwar P/ Mahesh Karnam
+Duration : Permanent
+New Appserv
+IP: 172.29.42.106
+Do not Delete
+User Name :administtrator
+Password:s0n@t@123
+OS: Windows Server 2012 R2 Standard, Version 6.3 (Build 9600 )
+
+#CLUSTER-INVARIANT#:{4acd0d71-db5b-49aa-8986-f7a00e4f67d7}
+
+
+In Use, confirmed by Dnyaneshwar Panchal on 24-May-2024. "
+"BG1APPSERVVM1","738c48bb-16de-45ee-aea8-aee1be50a324","Running","0","8","72.17:27:40","Operating normally","Up to date","1","E:\HO VM's\BG1APPSERVVM1\BG1APPSERVVM1","6/18/2015 11:16:20 PM","False",,"5.0","#CLUSTER-INVARIANT#:{5b63b957-2c28-474b-b89a-502ca4daf07c}
+
+App Server 1 (Internal Apps Team)
+IP Address:172.29.42.105
+.\Administrator / s0n@t@123
+Avinash MK/Dnyaneshwar P/ Mahesh Karnam
+OS: Windows Server 2012 R2 Standard, Version 6.3 (Build 9600 )
+
+
+In Use : Verified by Jacob Mathews on 02-12-2022
+
+In Use, confirmed by Dnyaneshwar Panchal on 24-May-2024. 
+
+","Network Adapter","E:\HO VM's\BG1APPSERVVM1\BG1APPSERVVM1\Virtual Hard Disks\BG1APPSERVVM1_FD1B0476-4B9F-4DB8-A11E-5584F8642F4A.avhdx","E:\HO VM's\BG1APPSERVVM1\BG1APPSERVVM1\Virtual Hard Disks\BG1APPSERVVM1_FD1B0476-4B9F-4DB8-A11E-5584F8642F4A.avhdx","300","52.67","172.29.42.133, 172.29.42.132, 172.29.42.131, 172.29.42.130, 172.29.42.129, 172.29.42.105, fe80::dc8d:5c93:6290:f18d",,"#CLUSTER-INVARIANT#:{5b63b957-2c28-474b-b89a-502ca4daf07c}
+
+App Server 1 (Internal Apps Team)
+IP Address:172.29.42.105
+.\Administrator / s0n@t@123
+Avinash MK/Dnyaneshwar P/ Mahesh Karnam
+OS: Windows Server 2012 R2 Standard, Version 6.3 (Build 9600 )
+
+
+In Use : Verified by Jacob Mathews on 02-12-2022
+
+In Use, confirmed by Dnyaneshwar Panchal on 24-May-2024. 
+
+"
+"BG4D386DEV03","b1a73b63-80b6-4f66-9427-23f7a3102987","Paused","0","20","407.03:55:22","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","3/25/2023 8:23:30 AM","False",,"5.0","
+D365 VM
+HostName: BG4D386DEV03	
+IP: 172.29.74.159	
+OS: Windows Server 2016 Datacenter, Version 1607 (Build 14393 )
+.\Administrator / pass@word1
+
+
+No User details hence VM is Paused by Manjunath Hegde on 31-May-2024, before turning on please contact me. ","Network Adapter","H:\BG4PHS027CSRMAPMMS SERVER BACKUP\BG4D386DEV03\FinandOps10.0.13.vhd","H:\BG4PHS027CSRMAPMMS SERVER BACKUP\BG4D386DEV03\FinandOps10.0.13.vhd","628","629.15","",,"
+D365 VM
+HostName: BG4D386DEV03	
+IP: 172.29.74.159	
+OS: Windows Server 2016 Datacenter, Version 1607 (Build 14393 )
+.\Administrator / pass@word1
+
+
+No User details hence VM is Paused by Manjunath Hegde on 31-May-2024, before turning on please contact me. "
+"BG4PHS013AXSSNAVM1","47591dac-a96b-487a-903e-77bbbeba9f10","Off","0","0","00:00:00","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","3/19/2023 8:46:57 PM","False",,"5.0","","Network Adapter","E:\BG4PHS027CSRMAPMMS SERVER BACKUP\BG4PHS013AXSSNAVM1\D365\FinandOps10.0.13.vhd","E:\BG4PHS027CSRMAPMMS SERVER BACKUP\BG4PHS013AXSSNAVM1\D365\FinandOps10.0.13.vhd","127","125.86","",,""
+"BG4PHS021CSR","34ff75cf-1cdd-4ed4-8c08-a92fd99f78e8","Off","0","0","00:00:00","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","8/18/2022 3:36:10 PM","False",,"5.0","VM: BG4PHS021CSR
+IP:172.29.67.28
+PM: Sriram R
+VM Ower: Purnendu Ranjan Raja
+Duration: 9 Months
+Created by : Praveen Km
+Ticket : 990-463
+
+Turned off by Arul on 02-May-2024 . will delete after 2 weeks.","Network Adapter","G:\BG4PHS021CSR\BG4PHS021CSR.vhdx","G:\BG4PHS021CSR\BG4PHS021CSR.vhdx","200","48.47","",,"VM: BG4PHS021CSR
+IP:172.29.67.28
+PM: Sriram R
+VM Ower: Purnendu Ranjan Raja
+Duration: 9 Months
+Created by : Praveen Km
+Ticket : 990-463
+
+Turned off by Arul on 02-May-2024 . will delete after 2 weeks."
+"BG4PHS021ENGTVM01","d3cba182-5f2b-401e-8b8a-4064a06af951","Off","0","0","00:00:00","Operating normally","","1","F:\BG4PHS021ENGTVM01\BG4PHS021ENGTVM01","9/9/2018 3:05:55 PM","False",,"5.0","Adept-GitSource
+Host Name: BG4PHS021ENGADPT
+IP: 172.29.67.42
+Login ID: sonata
+Password: sonata@123
+Login : root
+Password : root@123 
+Owner: Madhavi Kuppachhi, Baskar Arunachalam
+Created on:09 Sep 2018
+OS: Linux
+
+Turned off by Manjunath Hegde on 28-May-2024, confirmed by Baskar Arunachalam. ","Network Adapter","F:\BG4PHS021ENGTVM01\BG4PHS021ENGTVM01\Virtual Hard Disks\BG4PHS021ENGTVM01_25D2221C-106A-4584-9511-C4685AF882B0.avhdx","F:\BG4PHS021ENGTVM01\BG4PHS021ENGTVM01\Virtual Hard Disks\BG4PHS021ENGTVM01_25D2221C-106A-4584-9511-C4685AF882B0.avhdx","127","22.11","",,"Adept-GitSource
+Host Name: BG4PHS021ENGADPT
+IP: 172.29.67.42
+Login ID: sonata
+Password: sonata@123
+Login : root
+Password : root@123 
+Owner: Madhavi Kuppachhi, Baskar Arunachalam
+Created on:09 Sep 2018
+OS: Linux
+
+Turned off by Manjunath Hegde on 28-May-2024, confirmed by Baskar Arunachalam. "
+"BG4PHS021Qatar","c45ebc21-cffd-4aaa-bf32-20413c7e20a5","Off","0","0","00:00:00","Operating normally","","1","E:\BG4PHS021Qatar\BG4PHS021Qatar","9/9/2021 2:30:49 PM","False",,"5.0","Project : Qatar
+Owner: Venkatasubramaniyan K. R.
+Durartion : Premanent 
+Created by : praveen KM
+Ticket :925-309
+Vm Hostname:BG4PHS021Qatar
+Hosted server: BGLBG4PHS021
+IP:172.29.80.32
+OS: Windows 10, Version 22H2 (Build 19045)
+
+
+VM is turned off by Manjunath Hegde, confirmed by Venkatasubramaniyan K. R. on 06-Jun-2024. ","Network Adapter","E:\BG4PHS021Qatar\BG4PHS021Qatar\Virtual Hard Disks\BG4PHS021Qatar.vhdx","E:\BG4PHS021Qatar\BG4PHS021Qatar\Virtual Hard Disks\BG4PHS021Qatar.vhdx","127","38.57","",,"Project : Qatar
+Owner: Venkatasubramaniyan K. R.
+Durartion : Premanent 
+Created by : praveen KM
+Ticket :925-309
+Vm Hostname:BG4PHS021Qatar
+Hosted server: BGLBG4PHS021
+IP:172.29.80.32
+OS: Windows 10, Version 22H2 (Build 19045)
+
+
+VM is turned off by Manjunath Hegde, confirmed by Venkatasubramaniyan K. R. on 06-Jun-2024. "
+"BG4PHS021RDWVM","1b849795-ea5c-46cc-9efd-09fa9543aabb","Off","0","0","00:00:00","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","10/21/2023 5:56:57 PM","False",,"5.0","
+IP: 172.29.41.198
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763 )
+
+","Network Adapter","H:\BG4PHS021RDWVM\BG4PHS021RDWVM.vhdx","H:\BG4PHS021RDWVM\BG4PHS021RDWVM.vhdx","300","19.16","",,"
+IP: 172.29.41.198
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763 )
+
+"
+"BG4PHS027CSRMAPMMS","20cd5dfe-c93a-4573-8b3b-d6796bdedaa3","Paused","0","16","444.03:53:07","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","3/19/2023 9:12:19 PM","False",,"5.0","
+Ubuntu OS
+
+No User details hence VM is Paused by Manjunath Hegde on 31-May-2024, before turning on please contact me. ","Network Adapter","G:\BG4PHS027CSRMAPMMS SERVER BACKUP\BG4PHS027CSRMAPMMS\BG4PHS027CSRMAPMMS.vhdx","G:\BG4PHS027CSRMAPMMS SERVER BACKUP\BG4PHS027CSRMAPMMS\BG4PHS027CSRMAPMMS.vhdx","300","53.66","",,"
+Ubuntu OS
+
+No User details hence VM is Paused by Manjunath Hegde on 31-May-2024, before turning on please contact me. "
+"BGLBG1NDBVM02","8454a660-3261-4dda-91ce-2f470e01b61a","Off","0","0","00:00:00","Operating normally","","1","F:\GV VM's\BGLBG1NDBVM02\BGLBG1NDBVM02","3/18/2016 3:55:15 PM","False",,"5.0","#CLUSTER-INVARIANT#:{24058016-ae60-47c2-9387-a0675ee26a27}
+
+DB VM
+IP: 172.29.42.113
+OS: Windows Server 2012 Standard, Version 6.2 (Build 9200 )
+Owner: Avinash MK/Dnyaneshwar P/ Mahesh Karnam
+
+VM is turned off by Manjunath Hegde on 24-May-2024, confirmed by Dnyaneshwar Panchal.  ","Network Adapter","F:\GV VM's\BGLBG1NDBVM02\BGLBG1NDBVM02\BGLBG1NDBVM02_53ECB6C8-3137-48BD-B8C5-2B9BACA31EA9.avhd","F:\GV VM's\BGLBG1NDBVM02\BGLBG1NDBVM02\BGLBG1NDBVM02_53ECB6C8-3137-48BD-B8C5-2B9BACA31EA9.avhd","200","106.9","",,"#CLUSTER-INVARIANT#:{24058016-ae60-47c2-9387-a0675ee26a27}
+
+DB VM
+IP: 172.29.42.113
+OS: Windows Server 2012 Standard, Version 6.2 (Build 9200 )
+Owner: Avinash MK/Dnyaneshwar P/ Mahesh Karnam
+
+VM is turned off by Manjunath Hegde on 24-May-2024, confirmed by Dnyaneshwar Panchal.  "
+"BGLBG1STCRMVM","ba1d1c8e-2a73-486e-91d1-4ef5c107ee1f","Paused","0","5","755.18:51:49","Operating normally","","1","E:\HO VM's\BGLBG1STCRMVM\BGLBG1STCRMVM","8/17/2015 3:45:32 PM","False",,"5.0","#CLUSTER-INVARIANT#:{21f02aee-0811-44a2-97dc-49bbaffa5291}
+
+IP address : 172.29.42.116
+
+NEW os was installed on 31/dec/2020 requested by bharath.rp ticket number:875-669
+
+user name: administrator
+password: s0n@t@123
+
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393)
+
+Bharath Reddy Peddireddy (15156) / Sai Nikitha Kasu (25329)
+
+
+VM is Paused by Manjunath Hegde on 06-Jun-2024, user is not responded. Before turning on contact me. ","Network Adapter","E:\HO VM's\BGLBG1STCRMVM\BGLBG1STCRMVM\Virtual Hard Disks\BGLBG1STCRMVM_CA1BF6B4-0BEF-4AC1-B34A-B6DC2C16C1B5.avhdx, F:\BGLBG4CSR_Data\DATA_Disk.vhdx","E:\HO VM's\BGLBG1STCRMVM\BGLBG1STCRMVM\Virtual Hard Disks\BGLBG1STCRMVM_CA1BF6B4-0BEF-4AC1-B34A-B6DC2C16C1B5.avhdx","250","55.06","",,"#CLUSTER-INVARIANT#:{21f02aee-0811-44a2-97dc-49bbaffa5291}
+
+IP address : 172.29.42.116
+
+NEW os was installed on 31/dec/2020 requested by bharath.rp ticket number:875-669
+
+user name: administrator
+password: s0n@t@123
+
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393)
+
+Bharath Reddy Peddireddy (15156) / Sai Nikitha Kasu (25329)
+
+
+VM is Paused by Manjunath Hegde on 06-Jun-2024, user is not responded. Before turning on contact me. "
+"BGLBG1STCRMVM","ba1d1c8e-2a73-486e-91d1-4ef5c107ee1f","Paused","0","5","755.18:51:49","Operating normally","","1","E:\HO VM's\BGLBG1STCRMVM\BGLBG1STCRMVM","8/17/2015 3:45:32 PM","False",,"5.0","#CLUSTER-INVARIANT#:{21f02aee-0811-44a2-97dc-49bbaffa5291}
+
+IP address : 172.29.42.116
+
+NEW os was installed on 31/dec/2020 requested by bharath.rp ticket number:875-669
+
+user name: administrator
+password: s0n@t@123
+
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393)
+
+Bharath Reddy Peddireddy (15156) / Sai Nikitha Kasu (25329)
+
+
+VM is Paused by Manjunath Hegde on 06-Jun-2024, user is not responded. Before turning on contact me. ","Network Adapter","E:\HO VM's\BGLBG1STCRMVM\BGLBG1STCRMVM\Virtual Hard Disks\BGLBG1STCRMVM_CA1BF6B4-0BEF-4AC1-B34A-B6DC2C16C1B5.avhdx, F:\BGLBG4CSR_Data\DATA_Disk.vhdx","F:\BGLBG4CSR_Data\DATA_Disk.vhdx","100","100","",,"#CLUSTER-INVARIANT#:{21f02aee-0811-44a2-97dc-49bbaffa5291}
+
+IP address : 172.29.42.116
+
+NEW os was installed on 31/dec/2020 requested by bharath.rp ticket number:875-669
+
+user name: administrator
+password: s0n@t@123
+
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393)
+
+Bharath Reddy Peddireddy (15156) / Sai Nikitha Kasu (25329)
+
+
+VM is Paused by Manjunath Hegde on 06-Jun-2024, user is not responded. Before turning on contact me. "
+"BGLBG4CSRMAP","01765286-46cc-47e3-b75c-69d8bb04a016","Off","0","0","00:00:00","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","1/1/1601 5:30:00 AM","False",,"5.0","Name : BG4PHS21CSRMAP
+IP : 172.29.67.65
+user name : administrator
+Password : sonata@123
+requested by : Venkateswarulu kaisetty (2584)
+Ticket no : 836-884 
+OS: Windows 10, Version 20H2 (Build 19042)
+
+
+VM is turned off by Manjunath Hegde, confirmed by Venkateswarulu kaisetty on 06-Jun-2024. ","Network Adapter","F:\BGLBG4CSRMAP\BGLBG4CSR_MAP.vhdx","F:\BGLBG4CSRMAP\BGLBG4CSR_MAP.vhdx","227","147.63","",,"Name : BG4PHS21CSRMAP
+IP : 172.29.67.65
+user name : administrator
+Password : sonata@123
+requested by : Venkateswarulu kaisetty (2584)
+Ticket no : 836-884 
+OS: Windows 10, Version 20H2 (Build 19042)
+
+
+VM is turned off by Manjunath Hegde, confirmed by Venkateswarulu kaisetty on 06-Jun-2024. "

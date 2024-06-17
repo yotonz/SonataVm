@@ -1,0 +1,4 @@
+User: list me the vm that are on along with their physical server name
+AI: Error: Unable to get response from OpenAI.
+User: hello
+AI: Error: Unable to get response from OpenAI.

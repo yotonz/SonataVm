@@ -1,0 +1,409 @@
+"VMName","VMId","State","CPUUsage","MemoryAssignedGB","Uptime","Status","IntegrationServicesState","Generation","Path","CreationTime","IsClustered","IsHighlyAvailable","Version","Notes","NetworkAdapters","HardDrives","VhdPath","VhdSizeGB","VhdSizeOnDiskGB","IPAddresses","ManagementName","Records"
+"BG4GVDHCPVM1","7286a00c-8608-4981-b966-cc347d03d030","Running","0","8","66.17:35:32.3380000","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","12/22/2022 2:03:42 PM","False",,"9.0","Physical Server: BGLBG4PHYPSBK01
+Hostname: BG4GVDHCPVM1
+IP:172.29.42.87
+UserName:Nirva
+Password:S0n@t@123
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763 )
+Created by : Praveen KM
+Created date: 26-Dec-2022
+Project: INFRA
+Duration:Permanent
+SoftwareCenter Enabled","Network Adapter","D:\BG4GVDHCPVM1\BG4GVDHCPVM1_413E1B7A-B196-47BF-8574-C35726582EFE.avhdx","D:\BG4GVDHCPVM1\BG4GVDHCPVM1_413E1B7A-B196-47BF-8574-C35726582EFE.avhdx","250","18.65","172.29.42.87, fe80::40ce:e6e3:4c52:217c",,"Physical Server: BGLBG4PHYPSBK01
+Hostname: BG4GVDHCPVM1
+IP:172.29.42.87
+UserName:Nirva
+Password:S0n@t@123
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763 )
+Created by : Praveen KM
+Created date: 26-Dec-2022
+Project: INFRA
+Duration:Permanent
+SoftwareCenter Enabled"
+"BG4PHYPSBK01AAD01","a0ae02a0-395e-4db0-8a72-ff07a0c354dd","Running","0","8","172.18:29:30.6040000","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","3/21/2023 4:16:05 PM","False",,"9.0","INFRA AAD SERVER.
+
+Host Name: BG4PHYPSBK01AAD01
+IP Address: 172.29.42.206
+Owner: Exchange Admin Team
+Windows Server 2019 Standard, Version 1809 (Build 17763 )
+
+Note: Dont Shutdown the server since it is Active Sync between AD & Cloud
+SoftwareCenter Enabled","Network Adapter","E:\BG4PHYPSBK01AAD01\BG4PHYPSBK01AAD01.vhdx, E:\BG4PHYPSBK01AAD01\Data.vhd","E:\BG4PHYPSBK01AAD01\BG4PHYPSBK01AAD01.vhdx","200","26.25","172.29.42.206, fe80::2086:25db:b713:a51f",,"INFRA AAD SERVER.
+
+Host Name: BG4PHYPSBK01AAD01
+IP Address: 172.29.42.206
+Owner: Exchange Admin Team
+Windows Server 2019 Standard, Version 1809 (Build 17763 )
+
+Note: Dont Shutdown the server since it is Active Sync between AD & Cloud
+SoftwareCenter Enabled"
+"BG4PHYPSBK01AAD01","a0ae02a0-395e-4db0-8a72-ff07a0c354dd","Running","0","8","172.18:29:31.1510000","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","3/21/2023 4:16:05 PM","False",,"9.0","INFRA AAD SERVER.
+
+Host Name: BG4PHYPSBK01AAD01
+IP Address: 172.29.42.206
+Owner: Exchange Admin Team
+Windows Server 2019 Standard, Version 1809 (Build 17763 )
+
+Note: Dont Shutdown the server since it is Active Sync between AD & Cloud
+SoftwareCenter Enabled","Network Adapter","E:\BG4PHYPSBK01AAD01\BG4PHYPSBK01AAD01.vhdx, E:\BG4PHYPSBK01AAD01\Data.vhd","E:\BG4PHYPSBK01AAD01\Data.vhd","100","100","172.29.42.206, fe80::2086:25db:b713:a51f",,"INFRA AAD SERVER.
+
+Host Name: BG4PHYPSBK01AAD01
+IP Address: 172.29.42.206
+Owner: Exchange Admin Team
+Windows Server 2019 Standard, Version 1809 (Build 17763 )
+
+Note: Dont Shutdown the server since it is Active Sync between AD & Cloud
+SoftwareCenter Enabled"
+"BG4PHYPSBK01ADFS02","e647864a-5fda-49a0-aabb-20bbdbdec14b","Running","0","5.07","66.22:04:53.9380000","Operating normally","","1","D:\BG4PHYPSBK01ADFS02\BG4PHYPSBK01ADFS02","1/24/2024 5:36:41 PM","False",,"9.0","
+ADFS Secondary Server 2016
+
+Hostname: BG4PSBK01ADFS02
+IP: 172.29.42.95
+User Name: Nirva
+Owner: Exchange Admin Group
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393 )
+
+Created By: Manjunath Hegde
+
+SoftwareCenter Enabled","Network Adapter","D:\BG4PHYPSBK01ADFS02\BG4PHYPSBK01ADFS02\Virtual Hard Disks\BG4PHYPSBK01ADFS02-C.vhdx, D:\BG4PHYPSBK01ADFS02\BG4PHYPSBK01ADFS02\Virtual Hard Disks\BG4PHYPSBK01ADFS02-D.vhdx","D:\BG4PHYPSBK01ADFS02\BG4PHYPSBK01ADFS02\Virtual Hard Disks\BG4PHYPSBK01ADFS02-C.vhdx","200","38.19","172.29.42.95",,"
+ADFS Secondary Server 2016
+
+Hostname: BG4PSBK01ADFS02
+IP: 172.29.42.95
+User Name: Nirva
+Owner: Exchange Admin Group
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393 )
+
+Created By: Manjunath Hegde
+
+SoftwareCenter Enabled"
+"BG4PHYPSBK01ADFS02","e647864a-5fda-49a0-aabb-20bbdbdec14b","Running","0","5.07","66.22:04:54.7220000","Operating normally","","1","D:\BG4PHYPSBK01ADFS02\BG4PHYPSBK01ADFS02","1/24/2024 5:36:41 PM","False",,"9.0","
+ADFS Secondary Server 2016
+
+Hostname: BG4PSBK01ADFS02
+IP: 172.29.42.95
+User Name: Nirva
+Owner: Exchange Admin Group
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393 )
+
+Created By: Manjunath Hegde
+
+SoftwareCenter Enabled","Network Adapter","D:\BG4PHYPSBK01ADFS02\BG4PHYPSBK01ADFS02\Virtual Hard Disks\BG4PHYPSBK01ADFS02-C.vhdx, D:\BG4PHYPSBK01ADFS02\BG4PHYPSBK01ADFS02\Virtual Hard Disks\BG4PHYPSBK01ADFS02-D.vhdx","D:\BG4PHYPSBK01ADFS02\BG4PHYPSBK01ADFS02\Virtual Hard Disks\BG4PHYPSBK01ADFS02-D.vhdx","100","100","172.29.42.95",,"
+ADFS Secondary Server 2016
+
+Hostname: BG4PSBK01ADFS02
+IP: 172.29.42.95
+User Name: Nirva
+Owner: Exchange Admin Group
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393 )
+
+Created By: Manjunath Hegde
+
+SoftwareCenter Enabled"
+"BG4PHYPSBK01ASCVM","60154b14-3d42-4bf3-943a-636e904a1231","Running","2","32","172.18:29:42.1900000","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","6/5/2023 3:48:04 PM","False",,"9.0","This server used to Access control Managemt by the Admin team.
+
+VM: BG4PHYPSBK01ASCVM
+Hosted On: BGLBG4PHYPSBK01
+User Name: Administrator
+Hostname: BG4PHYPSBK01ASCVM
+IP : 172.29.42.94
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763 )
+Owner : Jayadev M. (7447) / Mayuri S V (23387)
+PM: Ashish Anant Gaonkar (21109)
+Dept: Admin Team
+SoftwareCenter Enabled
+
+In Use, confirmed by Mayuri S V on 27-May-2024
+","Network Adapter","E:\BG4PHYPSBK01ASCVM\BG4PHYPSBK01ASCVM.vhdx, E:\BG4PHYPSBK01ASCVM\Data.vhdx","E:\BG4PHYPSBK01ASCVM\BG4PHYPSBK01ASCVM.vhdx","300","165.38","172.29.42.94",,"This server used to Access control Managemt by the Admin team.
+
+VM: BG4PHYPSBK01ASCVM
+Hosted On: BGLBG4PHYPSBK01
+User Name: Administrator
+Hostname: BG4PHYPSBK01ASCVM
+IP : 172.29.42.94
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763 )
+Owner : Jayadev M. (7447) / Mayuri S V (23387)
+PM: Ashish Anant Gaonkar (21109)
+Dept: Admin Team
+SoftwareCenter Enabled
+
+In Use, confirmed by Mayuri S V on 27-May-2024
+"
+"BG4PHYPSBK01ASCVM","60154b14-3d42-4bf3-943a-636e904a1231","Running","1","32","172.18:29:42.8780000","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","6/5/2023 3:48:04 PM","False",,"9.0","This server used to Access control Managemt by the Admin team.
+
+VM: BG4PHYPSBK01ASCVM
+Hosted On: BGLBG4PHYPSBK01
+User Name: Administrator
+Hostname: BG4PHYPSBK01ASCVM
+IP : 172.29.42.94
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763 )
+Owner : Jayadev M. (7447) / Mayuri S V (23387)
+PM: Ashish Anant Gaonkar (21109)
+Dept: Admin Team
+SoftwareCenter Enabled
+
+In Use, confirmed by Mayuri S V on 27-May-2024
+","Network Adapter","E:\BG4PHYPSBK01ASCVM\BG4PHYPSBK01ASCVM.vhdx, E:\BG4PHYPSBK01ASCVM\Data.vhdx","E:\BG4PHYPSBK01ASCVM\Data.vhdx","4096","4096","172.29.42.94",,"This server used to Access control Managemt by the Admin team.
+
+VM: BG4PHYPSBK01ASCVM
+Hosted On: BGLBG4PHYPSBK01
+User Name: Administrator
+Hostname: BG4PHYPSBK01ASCVM
+IP : 172.29.42.94
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763 )
+Owner : Jayadev M. (7447) / Mayuri S V (23387)
+PM: Ashish Anant Gaonkar (21109)
+Dept: Admin Team
+SoftwareCenter Enabled
+
+In Use, confirmed by Mayuri S V on 27-May-2024
+"
+"BG4PHYPSBK01ORBITBKP","4ea836d4-34cd-430d-8bf7-80a238a7d711","Running","0","24","57.16:58:31.2480000","Operating normally","","2","E:\BG4PHYPSBK01ORBITBKP\BG4PHYPSBK01ORBITBKP","3/14/2024 5:14:22 PM","False",,"9.0","Orbit Backup Server
+
+Hostname: Oracle
+IP: 172.29.42.44
+OS: Red Hat Enterprise Linux Server 7.9
+root / sonata@123
+Oralce1 / Welcome@123
+
+Owners: Ramachandra K.N. (4073) / Phani Chakravarthi Tanneru (23406)
+","Network Adapter","E:\BG4PHYPSBK01ORBITBKP\BG4PHYPSBK01ORBITBKP\Virtual Hard Disks\New Virtual Hard Disk.vhdx","E:\BG4PHYPSBK01ORBITBKP\BG4PHYPSBK01ORBITBKP\Virtual Hard Disks\New Virtual Hard Disk.vhdx","2000","403.88","172.29.42.44, fe80::cb81:cdc1:83c:b03f",,"Orbit Backup Server
+
+Hostname: Oracle
+IP: 172.29.42.44
+OS: Red Hat Enterprise Linux Server 7.9
+root / sonata@123
+Oralce1 / Welcome@123
+
+Owners: Ramachandra K.N. (4073) / Phani Chakravarthi Tanneru (23406)
+"
+"BG4PHYPSBK01PRIDNS","6f0ca035-a72d-4d77-bfc6-e1e5b77b85ed","Running","0","8","172.18:29:28.5440000","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","6/21/2023 9:33:43 AM","False",,"9.0","INFRA Primary DNS Server : 
+
+Primary DNS server 
+
+Hostname: BG4PHYPSBK01PRIDNS
+
+IP: 172.29.42.145
+
+VM owner : INFRA Team
+
+Duration : Permanent
+
+User name: Nirva
+
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763 )
+
+SoftwareCenter-Notworking
+
+
+
+","Network Adapter","D:\BG4PHYPSBK01PRIDNS\BG4PHYPSBK01PRIDNS.vhdx, D:\BG4PHYPSBK01PRIDNS\Data.vhd","D:\BG4PHYPSBK01PRIDNS\BG4PHYPSBK01PRIDNS.vhdx","100","21.91","172.29.42.145",,"INFRA Primary DNS Server : 
+
+Primary DNS server 
+
+Hostname: BG4PHYPSBK01PRIDNS
+
+IP: 172.29.42.145
+
+VM owner : INFRA Team
+
+Duration : Permanent
+
+User name: Nirva
+
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763 )
+
+SoftwareCenter-Notworking
+
+
+
+"
+"BG4PHYPSBK01PRIDNS","6f0ca035-a72d-4d77-bfc6-e1e5b77b85ed","Running","0","8","172.18:29:28.5590000","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","6/21/2023 9:33:43 AM","False",,"9.0","INFRA Primary DNS Server : 
+
+Primary DNS server 
+
+Hostname: BG4PHYPSBK01PRIDNS
+
+IP: 172.29.42.145
+
+VM owner : INFRA Team
+
+Duration : Permanent
+
+User name: Nirva
+
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763 )
+
+SoftwareCenter-Notworking
+
+
+
+","Network Adapter","D:\BG4PHYPSBK01PRIDNS\BG4PHYPSBK01PRIDNS.vhdx, D:\BG4PHYPSBK01PRIDNS\Data.vhd","D:\BG4PHYPSBK01PRIDNS\Data.vhd","50","50","172.29.42.145",,"INFRA Primary DNS Server : 
+
+Primary DNS server 
+
+Hostname: BG4PHYPSBK01PRIDNS
+
+IP: 172.29.42.145
+
+VM owner : INFRA Team
+
+Duration : Permanent
+
+User name: Nirva
+
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763 )
+
+SoftwareCenter-Notworking
+
+
+
+"
+"BG4PHYSBK01WDS","33c0e70e-f005-4724-a147-8e062c72c9e5","Running","0","16","66.14:31:02.1690000","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","4/10/2024 9:24:03 PM","False",,"9.0","Windows Deployment Server
+
+Hostname: BG4PHYSBK01WDS
+IP: 172.29.42.43
+Login: .\administrator
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763)
+Owner: Exchange Admin Group","Network Adapter","D:\BG4PHYSBK01WDS\BG4PHYSBK01WDS.vhdx","D:\BG4PHYSBK01WDS\BG4PHYSBK01WDS.vhdx","500","65.57","172.29.42.43",,"Windows Deployment Server
+
+Hostname: BG4PHYSBK01WDS
+IP: 172.29.42.43
+Login: .\administrator
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763)
+Owner: Exchange Admin Group"
+"BG4TUIVMW16DC01","63674a97-bfc5-4da6-b626-d1cb47f6265a","Running","0","8","114.21:48:56.9140000","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","2/21/2024 11:59:15 AM","False",,"9.0","TUI Primary AD Server : 
+
+Hostname: BG4TUIVMW16DC01
+
+IP:10.174.1.21
+
+VM owner : INFRA Team
+
+Duration : Permanent
+
+User name: Nirva
+
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393 )
+","Network Adapter","D:\BG4TUIVMW16DC01\BG4TUIVMW16DC01.vhdx","D:\BG4TUIVMW16DC01\BG4TUIVMW16DC01.vhdx","600","40.44","10.174.1.21",,"TUI Primary AD Server : 
+
+Hostname: BG4TUIVMW16DC01
+
+IP:10.174.1.21
+
+VM owner : INFRA Team
+
+Duration : Permanent
+
+User name: Nirva
+
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393 )
+"
+"BGLBG4BK01RDS","4251757b-f109-45f8-9b1b-1508d2647a20","Running","0","8","172.18:29:27.8880000","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","2/20/2023 5:23:44 PM","False",,"9.0","Radius Server
+
+Host Name: BGLBG4K01RS01
+IP: 172.29.42.208
+Owner: Network Team
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763 )
+
+SoftwareCenter-Enabled
+
+","Network Adapter","D:\BGLBG4BK01RDS\BGLBG4BK01RDS.vhdx","D:\BGLBG4BK01RDS\BGLBG4BK01RDS.vhdx","200","20.1","172.29.42.208, fe80::f5f6:c46c:1cc7:1179",,"Radius Server
+
+Host Name: BGLBG4K01RS01
+IP: 172.29.42.208
+Owner: Network Team
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763 )
+
+SoftwareCenter-Enabled
+
+"
+"BGLBG4INTAPPSDB1","ca817278-e8ce-4f2e-b669-852495087766","Running","0","36","172.18:30:07.2540000","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","6/12/2023 7:24:33 PM","False",,"9.0","Internal Apps DB Server
+
+Requested by :  14108 Panchal Dnyaneshwar
+Ticket :#SR-14983
+Project :Internal_Apps
+PM: Mahesh Karnam
+Duration : Permanent
+IP : 172.29.42.93
+PHY:BGLBG4PHYPSBK01
+Hostname: BGLBG4INTAPPSDB1
+User : Administrator
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393 )
+SoftwareCenter-Enabled
+
+In Use, confirmed by Dnyaneshwar Panchal on 24-May-2024.
+","Network Adapter","D:\BGLBG4INTAPPSDB1\BGLBG4INTERNALAPPSDB1.vhdx","D:\BGLBG4INTAPPSDB1\BGLBG4INTERNALAPPSDB1.vhdx","1024","765.91","172.29.42.93, fe80::8ca2:e6e8:db4f:b902",,"Internal Apps DB Server
+
+Requested by :  14108 Panchal Dnyaneshwar
+Ticket :#SR-14983
+Project :Internal_Apps
+PM: Mahesh Karnam
+Duration : Permanent
+IP : 172.29.42.93
+PHY:BGLBG4PHYPSBK01
+Hostname: BGLBG4INTAPPSDB1
+User : Administrator
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393 )
+SoftwareCenter-Enabled
+
+In Use, confirmed by Dnyaneshwar Panchal on 24-May-2024.
+"
+"BGLBG4PHYPSKB01-SEP01","24321ef0-13c8-4cff-90f5-b6d6ed86f945","Running","0","16","172.18:29:28.5310000","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","3/16/2023 3:08:38 PM","False",,"9.0","INFRA server- Symantec Enpoint Protection-DMZ server
+Hostname: BGLBG4PHYPSKSEP01
+IP:172.29.41.10
+UserName:Nirva
+Created by : Praveen KM
+Project: INFRA
+Duration:Permanent
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763 )
+SoftwareCenter-Notworking
+","Network Adapter","D:\BGLBG4PHYPSKB01-SymantecGV\BGLBG4PHYPSKB01-SymantecGV.vhdx","D:\BGLBG4PHYPSKB01-SymantecGV\BGLBG4PHYPSKB01-SymantecGV.vhdx","500","117.22","172.29.41.10, fe80::4c1e:1c4e:e726:9005",,"INFRA server- Symantec Enpoint Protection-DMZ server
+Hostname: BGLBG4PHYPSKSEP01
+IP:172.29.41.10
+UserName:Nirva
+Created by : Praveen KM
+Project: INFRA
+Duration:Permanent
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763 )
+SoftwareCenter-Notworking
+"
+"BGLBG4PUBDNSRV1","c43758ae-b0a0-476b-9441-4c9cdf5c084d","Running","0","8","45.00:54:36.9610000","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","2/1/2023 3:43:12 PM","False",,"9.0","VM: PUBLIC RDNS server
+IP:172.29.41.50
+PUB IP: 115.110.171.148
+User Name:Nirva
+Pass: S_n_t_321
+Dept: Infra
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763 )
+","Network Adapter","D:\BGLBG4PUBDNSRV1\BGLBG4PUBDNSRV1.vhdx","D:\BGLBG4PUBDNSRV1\BGLBG4PUBDNSRV1.vhdx","200","21.04","172.29.41.50",,"VM: PUBLIC RDNS server
+IP:172.29.41.50
+PUB IP: 115.110.171.148
+User Name:Nirva
+Pass: S_n_t_321
+Dept: Infra
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763 )
+"
+"BGLBG4SRVMZ1","e1ad008c-f3a4-4286-80a3-ec08d949aa10","Paused","0","10","157.00:14:09.2150000","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","2/3/2023 3:46:51 PM","False",,"9.0","
+CentOS Linux
+TUI Lan
+
+No User details hence Paused by Manjunath Hegde on 31-May-2024, before turning on please contact me. ","Network Adapter","D:\BGLBG4SRVMZ1\BGLBG4SRVMZ1.vhdx","D:\BGLBG4SRVMZ1\BGLBG4SRVMZ1.vhdx","500","9.13","",,"
+CentOS Linux
+TUI Lan
+
+No User details hence Paused by Manjunath Hegde on 31-May-2024, before turning on please contact me. "
+"BGLBG4WAPSRV01","6c932917-017c-4c0b-b7e7-a72ed26ba0a6","Running","0","8","87.18:31:04.6030000","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","3/12/2024 11:19:04 AM","False",,"9.0","WAP Server (Reverse Proxy Server)
+
+Hostname: BGLBG4WAPSRV01
+IP: 172.29.41.12
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393)
+Login:  Nirva
+Owner: Exchange Team
+SoftwareCenter-Not enabled","Network Adapter","D:\BGLBG4WAPSRV01\BGLBG4WAPSRV01.vhdx","D:\BGLBG4WAPSRV01\BGLBG4WAPSRV01.vhdx","200","29.82","172.29.41.12",,"WAP Server (Reverse Proxy Server)
+
+Hostname: BGLBG4WAPSRV01
+IP: 172.29.41.12
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393)
+Login:  Nirva
+Owner: Exchange Team
+SoftwareCenter-Not enabled"

@@ -1,0 +1,107 @@
+"VMName","VMId","State","CPUUsage","MemoryAssignedGB","Uptime","Status","IntegrationServicesState","Generation","Path","CreationTime","IsClustered","IsHighlyAvailable","Version","Notes","NetworkAdapters","HardDrives","VhdPath","VhdSizeGB","VhdSizeOnDiskGB","IPAddresses","ManagementName","Records"
+"BG4PHS013ESSCOM","ff0d8b3d-ae7e-4c47-8d25-04f0fd9807db","Running","0","16","96.18:27:24.4500000","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","6/26/2023 12:23:16 PM","False",,"9.0","Requested By: 14108 Panchal Dnyaneshwar
+Ticket: SR-16669
+Project:Internal Apps
+PM:Mahesh Karnam
+Duration: Permanent
+IP: 172.29.42.111
+PHY: BGLBG4PHS013
+Hostname:BG4PHS013ESSCOM
+Username: Nirva
+Password: S_n_t_123
+OS: Windows Server 2019 Standard
+
+
+In Use, confirmed by Dnyaneshwar Panchal on 24-May-2024. ","Network Adapter","C:\ProgramData\Microsoft\Windows\Virtual Hard Disks\BG4PHS013ESSCOM.vhdx","C:\ProgramData\Microsoft\Windows\Virtual Hard Disks\BG4PHS013ESSCOM.vhdx","700","69.82","172.29.42.111, fe80::15c1:d6c7:19c5:82ea",,"Requested By: 14108 Panchal Dnyaneshwar
+Ticket: SR-16669
+Project:Internal Apps
+PM:Mahesh Karnam
+Duration: Permanent
+IP: 172.29.42.111
+PHY: BGLBG4PHS013
+Hostname:BG4PHS013ESSCOM
+Username: Nirva
+Password: S_n_t_123
+OS: Windows Server 2019 Standard
+
+
+In Use, confirmed by Dnyaneshwar Panchal on 24-May-2024. "
+"BG4PHS029RAP","a59971e2-f28f-41a8-9e0d-097bb286a60b","Running","1","16","1.10:48:02.1650000","Operating normally","","1","G:\BG4PHS029RAP\BG4PHS029RAP","6/13/2024 4:55:10 PM","False",,"9.0","","Network Adapter","G:\BG4PHS029RAP\BG4PHS029RAP\Virtual Hard Disks\BG4PHS029RAP.vhdx","G:\BG4PHS029RAP\BG4PHS029RAP\Virtual Hard Disks\BG4PHS029RAP.vhdx","500","52.82","172.29.74.104, fe80::9af7:3df8:69c5:f98f",,""
+"BG4PHS13INTAPPSVM","8cbe9485-8e4f-43c5-8988-a3d79d78a797","Off","0","0","00:00:00","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","10/9/2023 12:36:13 PM","False",,"9.0","Requsted by : Baskar Arunachalam
+IP:172.29.74.67
+User: root,sonata
+password: sonata@123
+Duration: Permanent 
+Creation date: 10-Oct-2023
+Created by : Praeen KM
+Dept: Internal Apps
+PM: Mahesh Karnam
+Ticket : SR-27539
+OS: Ubuntu 20.04.2
+
+VM is turned off by Manjunath Hegde on 29-May-2024, confirmed by Baskar Arunachalam. 
+","Network Adapter","H:\BG4PHS13INTAPPSVM\BG4PHS13INTAPPSVM_E8BAD397-B8A8-4D9F-9E22-4F5AEEE70308.avhdx","H:\BG4PHS13INTAPPSVM\BG4PHS13INTAPPSVM_E8BAD397-B8A8-4D9F-9E22-4F5AEEE70308.avhdx","600","30.21","",,"Requsted by : Baskar Arunachalam
+IP:172.29.74.67
+User: root,sonata
+password: sonata@123
+Duration: Permanent 
+Creation date: 10-Oct-2023
+Created by : Praeen KM
+Dept: Internal Apps
+PM: Mahesh Karnam
+Ticket : SR-27539
+OS: Ubuntu 20.04.2
+
+VM is turned off by Manjunath Hegde on 29-May-2024, confirmed by Baskar Arunachalam. 
+"
+"BG4PHS13INTCOMP","50cb46ca-1042-43b4-bd88-d916a3bf8b10","Off","0","0","00:00:00","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","8/8/2023 12:58:58 PM","False",,"9.0","Hostname:BG4PHS13INTCOMP
+IP:172.29.75.19
+Project : Internal_Compliance_MCS_SSSLM 
+Owner: Narasimha Rao Akundi
+Duration : Permanent
+Created By: Praveen KM
+Date: 8-Aug-23
+Ticket : SR-22745
+OS: Windows Server 2019 Standard
+
+VM is turned off by Manjunath Hegde on 05-Jun-2024, confirmed by Narasimha Rao Akundi.","Network Adapter","H:\BG4PHS13INTCOMP\BG4PHS13INTCOMP.vhdx","H:\BG4PHS13INTCOMP\BG4PHS13INTCOMP.vhdx","200","65.54","",,"Hostname:BG4PHS13INTCOMP
+IP:172.29.75.19
+Project : Internal_Compliance_MCS_SSSLM 
+Owner: Narasimha Rao Akundi
+Duration : Permanent
+Created By: Praveen KM
+Date: 8-Aug-23
+Ticket : SR-22745
+OS: Windows Server 2019 Standard
+
+VM is turned off by Manjunath Hegde on 05-Jun-2024, confirmed by Narasimha Rao Akundi."
+"BG4PHSVPROMGT","ebc604c9-33bb-4ce6-a2ae-04f72a29c077","Off","0","0","00:00:00","Operating normally","","1","H:\BG4PHSVPROMGT\BG4PHSVPROMGT","7/6/2023 6:12:06 PM","False",,"9.0","Intell VPRO VM, not deployed. ","Network Adapter, Network Adapter","H:\BG4PHSVPROMGT\BG4PHSVPROMGT\Virtual Hard Disks\BG4PHSVPROMGT.vhdx","H:\BG4PHSVPROMGT\BG4PHSVPROMGT\Virtual Hard Disks\BG4PHSVPROMGT.vhdx","127","13.29","",,"Intell VPRO VM, not deployed. "
+"BGLBG4PHS013SPARK","759c416c-db9d-492f-8a16-09f822e125c6","Running","0","11.96","310.13:08:20.0310000","Operating normally","","1","G:\BGLBG4PHS013SPARK\BGLBG4PHS013SPARK","8/7/2023 3:38:40 PM","False",,"9.0","Sonata SPARK Server
+
+Hostname: spark-Virtual-Machine
+IP: 172.29.41.77
+Project: Internal Apps
+Owner: Uday Kumar K (12955)
+PM: Mahesh Karnam
+User Name: spark
+Password: sonata@123
+Created By: Manjunath Hegde
+OS: Ubuntu 20.04.5
+
+Note: VM should be login once turned on to up the web site. 
+
+In Use, confirmed by Uday Kumar K on 24-May-2024. ","Network Adapter","G:\BGLBG4PHS013SPARK\BG1PHYBKP02SPARK.vhdx","G:\BGLBG4PHS013SPARK\BG1PHYBKP02SPARK.vhdx","300","99.22","",,"Sonata SPARK Server
+
+Hostname: spark-Virtual-Machine
+IP: 172.29.41.77
+Project: Internal Apps
+Owner: Uday Kumar K (12955)
+PM: Mahesh Karnam
+User Name: spark
+Password: sonata@123
+Created By: Manjunath Hegde
+OS: Ubuntu 20.04.5
+
+Note: VM should be login once turned on to up the web site. 
+
+In Use, confirmed by Uday Kumar K on 24-May-2024. "

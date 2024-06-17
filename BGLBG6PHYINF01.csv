@@ -1,0 +1,168 @@
+"VMName","VMId","State","CPUUsage","MemoryAssignedGB","Uptime","Status","IntegrationServicesState","Generation","Path","CreationTime","IsClustered","IsHighlyAvailable","Version","Notes","NetworkAdapters","HardDrives","VhdPath","VhdSizeGB","VhdSizeOnDiskGB","IPAddresses","ManagementName","Records"
+"BG6ADEPTVMSRV01","9fb1b4f4-3a2c-45af-86a9-9c3f83bc71fb","Running","0","8","56.16:10:11.1240000","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","10/23/2023 2:08:05 PM","False",,"9.0","Adept Server
+
+Host Name: BG4HYDHYBVM01
+IPv4: 172.27.74.43
+UserName: sonata
+Password: sonata@123
+OS: Ubuntu 14.04.6
+
+Project Name: Internal Apps Team
+VM Owner: Dnyaneshwar Panchal / Baskar A
+
+In Use, confirmed by Dnyaneshwar Panchal on 24-May-2024
+","Network Adapter","D:\Adept\BGLHYDUBTVM01_AD0E8C1A-2006-485F-BFC2-F8BF93CF7425.avhdx","D:\Adept\BGLHYDUBTVM01_AD0E8C1A-2006-485F-BFC2-F8BF93CF7425.avhdx","300","6.58","",,"Adept Server
+
+Host Name: BG4HYDHYBVM01
+IPv4: 172.27.74.43
+UserName: sonata
+Password: sonata@123
+OS: Ubuntu 14.04.6
+
+Project Name: Internal Apps Team
+VM Owner: Dnyaneshwar Panchal / Baskar A
+
+In Use, confirmed by Dnyaneshwar Panchal on 24-May-2024
+"
+"BG6GVDHCPVM1","4e256b9d-7b25-40fd-8efa-a03cfb058810","Running","0","8","56.16:09:20.6550000","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","1/3/2023 5:48:28 PM","False",,"9.0","DHCP Server
+
+Host Name: BG6GVDHCPVM1
+IPv4: 172.27.42.87
+Infra Server
+Exchange Admin Team
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763 )
+","Network Adapter","D:\BG6GVDHCPVM1\BG6GVDHCPVM1_9171C529-5824-42BF-A8CE-8566DF0130AB.avhdx","D:\BG6GVDHCPVM1\BG6GVDHCPVM1_9171C529-5824-42BF-A8CE-8566DF0130AB.avhdx","250","19.88","172.27.42.87, fe80::d925:5fee:288b:5003",,"DHCP Server
+
+Host Name: BG6GVDHCPVM1
+IPv4: 172.27.42.87
+Infra Server
+Exchange Admin Team
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763 )
+"
+"BG6PHYEirEvoVM","09350b4c-2c83-498b-bf86-e9967558d274","Running","0","64.23","56.16:08:52.7230000","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","8/23/2023 11:03:50 AM","False",,"9.0","Project id : EirEvo
+Start date: 23-Aug-23 
+IP : 172.27.74.100
+Hostname: BG6PHYEirEvoVM
+Username : Administrator
+Password: pass@word1
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763 )
+
+VM Owner: Vasanti Namdeo Salwatkar (22337) / Rohan Raviprasad Rao (22343)
+
+PM: Hariharan Sankar -109571
+
+end date : SR-52945 - Extended till June 31 2024
+
+In Use, confirmed by Vasanti Namdeo Salwatkar on 03-Jun-2024.","Network Adapter","D:\BG6PHYEirEvoVM\BG6PHYEirEvoVM.vhdx","D:\BG6PHYEirEvoVM\BG6PHYEirEvoVM.vhdx","1024","346.07","172.27.74.100",,"Project id : EirEvo
+Start date: 23-Aug-23 
+IP : 172.27.74.100
+Hostname: BG6PHYEirEvoVM
+Username : Administrator
+Password: pass@word1
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763 )
+
+VM Owner: Vasanti Namdeo Salwatkar (22337) / Rohan Raviprasad Rao (22343)
+
+PM: Hariharan Sankar -109571
+
+end date : SR-52945 - Extended till June 31 2024
+
+In Use, confirmed by Vasanti Namdeo Salwatkar on 03-Jun-2024."
+"BGLBG6INF01RDS","9c2bd7d3-63a2-4a91-9510-ebf0f4049e6b","Running","0","8","56.16:09:08.0670000","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","1/30/2024 10:01:18 AM","False",,"9.0","
+Radius Server (wi-fi authentication)
+
+Hostname: BGLBG6INF01RDS
+IP: 172.27.42.208
+Requester: Thumar Jagdish V (23070)
+PM: Vasuki Ram
+Owner: Network Team
+Project: Infra Team
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763 )
+","Network Adapter","D:\BGLBG6INF01RDS\BGLBG6INF01RDS.vhdx","D:\BGLBG6INF01RDS\BGLBG6INF01RDS.vhdx","200","24.13","172.27.42.208, fe80::462c:15e6:14b1:868",,"
+Radius Server (wi-fi authentication)
+
+Hostname: BGLBG6INF01RDS
+IP: 172.27.42.208
+Requester: Thumar Jagdish V (23070)
+PM: Vasuki Ram
+Owner: Network Team
+Project: Infra Team
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763 )
+"
+"BGLBG6PHYINF01NS9DNS","32f90e0b-4434-49e2-b73c-ea76f1f5623f","Off","0","0","00:00:00","Operating normally","","1","D:\BGLBG6PHYINF01NS9DNS\BGLBG6PHYINF01NS9DNS","7/13/2023 12:44:40 PM","False",,"9.0","Public RDNS Server
+Hostname: NS9DNS
+IP: 172.27.41.
+User Name: bg6adm
+Password: 50n@t@$1470!*?
+Created By: Manjunath Hegde
+
+temporary pswd- administrator/sonata@123
+
+Not in production","Network Adapter","D:\BGLBG6PHYINF01NS9DNS\BGLBG6PHYINF01NS9DNS\Virtual Hard Disks\BGLBG6PHYINF01NS9DNS.vhdx","D:\BGLBG6PHYINF01NS9DNS\BGLBG6PHYINF01NS9DNS\Virtual Hard Disks\BGLBG6PHYINF01NS9DNS.vhdx","100","27.04","",,"Public RDNS Server
+Hostname: NS9DNS
+IP: 172.27.41.
+User Name: bg6adm
+Password: 50n@t@$1470!*?
+Created By: Manjunath Hegde
+
+temporary pswd- administrator/sonata@123
+
+Not in production"
+"BGLBG6W12ADC01","1a953f33-f630-4909-8d8e-7dc7cdce848f","Off","0","0","00:00:00","Operating normally","","1","D:\BGLBG6W12ADC01\BGLBG6W12ADC01","6/26/2023 4:34:05 PM","False",,"9.0","ADC (Additional Domain Controller)
+Hostname:  BG6W12ADC01
+IP: 172.27.42.65
+User Name: Nirva
+VM Name: BGLBG6W12ADC01 
+Owner: Infra Team/Exchange Admin Team
+
+
+
+","Network Adapter","D:\BGLBG6W12ADC01\BGLBG6W12ADC01\Virtual Hard Disks\BGLBG6W12ADC01_09BBA053-7130-4239-9487-D594DB358A3E.avhdx, D:\BGLBG6W12ADC01\BGLBG6W12ADC01\Virtual Hard Disks\BGLBG6W12ADC01-Disk02_316F88CE-C967-45C5-9F0E-F4EFBCE4454B.avhdx","D:\BGLBG6W12ADC01\BGLBG6W12ADC01\Virtual Hard Disks\BGLBG6W12ADC01_09BBA053-7130-4239-9487-D594DB358A3E.avhdx","200","0.62","",,"ADC (Additional Domain Controller)
+Hostname:  BG6W12ADC01
+IP: 172.27.42.65
+User Name: Nirva
+VM Name: BGLBG6W12ADC01 
+Owner: Infra Team/Exchange Admin Team
+
+
+
+"
+"BGLBG6W12ADC01","1a953f33-f630-4909-8d8e-7dc7cdce848f","Off","0","0","00:00:00","Operating normally","","1","D:\BGLBG6W12ADC01\BGLBG6W12ADC01","6/26/2023 4:34:05 PM","False",,"9.0","ADC (Additional Domain Controller)
+Hostname:  BG6W12ADC01
+IP: 172.27.42.65
+User Name: Nirva
+VM Name: BGLBG6W12ADC01 
+Owner: Infra Team/Exchange Admin Team
+
+
+
+","Network Adapter","D:\BGLBG6W12ADC01\BGLBG6W12ADC01\Virtual Hard Disks\BGLBG6W12ADC01_09BBA053-7130-4239-9487-D594DB358A3E.avhdx, D:\BGLBG6W12ADC01\BGLBG6W12ADC01\Virtual Hard Disks\BGLBG6W12ADC01-Disk02_316F88CE-C967-45C5-9F0E-F4EFBCE4454B.avhdx","D:\BGLBG6W12ADC01\BGLBG6W12ADC01\Virtual Hard Disks\BGLBG6W12ADC01-Disk02_316F88CE-C967-45C5-9F0E-F4EFBCE4454B.avhdx","100","0.01","",,"ADC (Additional Domain Controller)
+Hostname:  BG6W12ADC01
+IP: 172.27.42.65
+User Name: Nirva
+VM Name: BGLBG6W12ADC01 
+Owner: Infra Team/Exchange Admin Team
+
+
+
+"
+"BGLBG6W16ADC01","6234bcfa-4afc-4fa6-a2dc-ea1a4b3ed6f6","Running","0","10","17.21:48:39.8120000","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","1/18/2024 6:49:20 PM","False",,"9.0","Additional Domain Controller
+
+Hostname:  BGLBG6W16ADC01
+IP: 172.27.42.66
+User Name: Nirva
+VM Name: BGLBG6W16ADC01 
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393 )
+
+Owner: Infra Team/Exchange Admin Team
+","Network Adapter","D:\BG6PHYINF01W16DC01\BG6PHYINF01W16DC01_890F068A-4710-4848-8202-71DB733A19E9.avhdx","D:\BG6PHYINF01W16DC01\BG6PHYINF01W16DC01_890F068A-4710-4848-8202-71DB733A19E9.avhdx","500","20.86","172.27.42.66",,"Additional Domain Controller
+
+Hostname:  BGLBG6W16ADC01
+IP: 172.27.42.66
+User Name: Nirva
+VM Name: BGLBG6W16ADC01 
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393 )
+
+Owner: Infra Team/Exchange Admin Team
+"
+"Win11Pro","4f41901b-ef14-4bbc-b47d-71592ecfe899","Off","0","0","00:00:00","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","4/18/2024 2:04:48 PM","False",,"9.0","","Network Adapter, Legacy Network Adapter","D:\Win11pro\Win11Pro_CE04BF6C-C63B-46BE-8B9B-185BA98A578B.avhdx","D:\Win11pro\Win11Pro_CE04BF6C-C63B-46BE-8B9B-185BA98A578B.avhdx","100","1.15","",,""

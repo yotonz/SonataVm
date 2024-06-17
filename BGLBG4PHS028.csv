@@ -1,0 +1,171 @@
+"VMName","VMId","State","CPUUsage","MemoryAssignedGB","Uptime","Status","IntegrationServicesState","Generation","Path","CreationTime","IsClustered","IsHighlyAvailable","Version","Notes","NetworkAdapters","HardDrives","VhdPath","VhdSizeGB","VhdSizeOnDiskGB","IPAddresses","ManagementName","Records"
+"BG4PHS028D365VM","66b9d61e-634b-49d9-9ed5-b6ee778c9dc7","Off","0","0","00:00:00","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","3/1/2024 11:00:43 AM","False",,"5.0","D365 VM - Tax Function Testing
+
+Hostname: BG4D365SRVM
+IP: 172.29.67.11
+Login: administrator / pass@word1
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393)
+Owner: Venkatesh Murthy S (7215)
+
+
+VM is turned off, confirmed by Venkatesh Murthy S on 06-Jun-2024.
+","Network Adapter","D:\BG4PHS028D365VM\BG4PHS028D365VM.vhdx","D:\BG4PHS028D365VM\BG4PHS028D365VM.vhdx","500","20.79","",,"D365 VM - Tax Function Testing
+
+Hostname: BG4D365SRVM
+IP: 172.29.67.11
+Login: administrator / pass@word1
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393)
+Owner: Venkatesh Murthy S (7215)
+
+
+VM is turned off, confirmed by Venkatesh Murthy S on 06-Jun-2024.
+"
+"BG4PHS028INTTEST01","6cb648a0-f083-49fe-846b-58aa08217b4a","Running","1","16.45","106.19:20:00","Operating normally","Up to date","2","D:\BG4PHS028INTTEST01\BG4PHS028INTTEST01","8/10/2022 2:40:02 PM","False",,"5.0","VM Hostname : BG4PHS028INTTEST01
+IP : 172.29.67.26
+Project: Internal Apps
+VM Owner: Uday.kumar
+PM : Mahesh Karnam
+Created by :Praveen KM
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393)
+
+In Use, confirmed by Dnyaneshwar Panchal, Verified by Srinivasa KP on 28-May-2024. ","Network Adapter","D:\BG4PHS028INTTEST01\BG4PHS028INTTEST01\Virtual Hard Disks\BG4PHS028INTTEST01.vhdx, D:\BG4PHS028INTTEST01\BG4PHS028INTTEST01-D.vhdx, D:\BG4PHS028INTTEST01\New Virtual Hard Disk.vhdx","D:\BG4PHS028INTTEST01\BG4PHS028INTTEST01\Virtual Hard Disks\BG4PHS028INTTEST01.vhdx","200","119.47","172.29.67.26, fe80::658a:eb92:377d:863d",,"VM Hostname : BG4PHS028INTTEST01
+IP : 172.29.67.26
+Project: Internal Apps
+VM Owner: Uday.kumar
+PM : Mahesh Karnam
+Created by :Praveen KM
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393)
+
+In Use, confirmed by Dnyaneshwar Panchal, Verified by Srinivasa KP on 28-May-2024. "
+"BG4PHS028INTTEST01","6cb648a0-f083-49fe-846b-58aa08217b4a","Running","1","16.45","106.19:20:00","Operating normally","Up to date","2","D:\BG4PHS028INTTEST01\BG4PHS028INTTEST01","8/10/2022 2:40:02 PM","False",,"5.0","VM Hostname : BG4PHS028INTTEST01
+IP : 172.29.67.26
+Project: Internal Apps
+VM Owner: Uday.kumar
+PM : Mahesh Karnam
+Created by :Praveen KM
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393)
+
+In Use, confirmed by Dnyaneshwar Panchal, Verified by Srinivasa KP on 28-May-2024. ","Network Adapter","D:\BG4PHS028INTTEST01\BG4PHS028INTTEST01\Virtual Hard Disks\BG4PHS028INTTEST01.vhdx, D:\BG4PHS028INTTEST01\BG4PHS028INTTEST01-D.vhdx, D:\BG4PHS028INTTEST01\New Virtual Hard Disk.vhdx","D:\BG4PHS028INTTEST01\BG4PHS028INTTEST01-D.vhdx","200","200","172.29.67.26, fe80::658a:eb92:377d:863d",,"VM Hostname : BG4PHS028INTTEST01
+IP : 172.29.67.26
+Project: Internal Apps
+VM Owner: Uday.kumar
+PM : Mahesh Karnam
+Created by :Praveen KM
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393)
+
+In Use, confirmed by Dnyaneshwar Panchal, Verified by Srinivasa KP on 28-May-2024. "
+"BG4PHS028INTTEST01","6cb648a0-f083-49fe-846b-58aa08217b4a","Running","1","16.45","106.19:20:00","Operating normally","Up to date","2","D:\BG4PHS028INTTEST01\BG4PHS028INTTEST01","8/10/2022 2:40:02 PM","False",,"5.0","VM Hostname : BG4PHS028INTTEST01
+IP : 172.29.67.26
+Project: Internal Apps
+VM Owner: Uday.kumar
+PM : Mahesh Karnam
+Created by :Praveen KM
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393)
+
+In Use, confirmed by Dnyaneshwar Panchal, Verified by Srinivasa KP on 28-May-2024. ","Network Adapter","D:\BG4PHS028INTTEST01\BG4PHS028INTTEST01\Virtual Hard Disks\BG4PHS028INTTEST01.vhdx, D:\BG4PHS028INTTEST01\BG4PHS028INTTEST01-D.vhdx, D:\BG4PHS028INTTEST01\New Virtual Hard Disk.vhdx","D:\BG4PHS028INTTEST01\New Virtual Hard Disk.vhdx","700","700","172.29.67.26, fe80::658a:eb92:377d:863d",,"VM Hostname : BG4PHS028INTTEST01
+IP : 172.29.67.26
+Project: Internal Apps
+VM Owner: Uday.kumar
+PM : Mahesh Karnam
+Created by :Praveen KM
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393)
+
+In Use, confirmed by Dnyaneshwar Panchal, Verified by Srinivasa KP on 28-May-2024. "
+"BG4PHS028ISDMVM","7bfb13e3-dff7-404e-9603-cfa0d3ab1843","Running","1","16","31.18:37:31","Operating normally","Up to date","1","C:\ProgramData\Microsoft\Windows\Hyper-V","8/8/2022 7:32:18 PM","False",,"5.0","VM hostname : BG4PHS028ISDMVM
+IP:172.29.67.10
+OS: Windows 10, Version 22H2 (Build 19045)
+Login: Administrator / sonata@123
+Project Id: ISDM
+Owner Of the VM: Purendu Ranjan Raja (18824) / Venkateswarulu kaisetty (2584)
+Duration : 12Months
+Created By : Praveen KM
+Created date:08-Aug-2022
+
+
+In Use, confirmed by Purendu Ranjan Raja & Venkateswarulu kaisetty on 29-May-2024.
+
+
+","Network Adapter","D:\BG4PHS028ISDMVM\BG4PHS028ISDMVM.vhdx","D:\BG4PHS028ISDMVM\BG4PHS028ISDMVM.vhdx","300","83.97","172.29.67.10, fe80::f273:7fcd:f8c3:b3de",,"VM hostname : BG4PHS028ISDMVM
+IP:172.29.67.10
+OS: Windows 10, Version 22H2 (Build 19045)
+Login: Administrator / sonata@123
+Project Id: ISDM
+Owner Of the VM: Purendu Ranjan Raja (18824) / Venkateswarulu kaisetty (2584)
+Duration : 12Months
+Created By : Praveen KM
+Created date:08-Aug-2022
+
+
+In Use, confirmed by Purendu Ranjan Raja & Venkateswarulu kaisetty on 29-May-2024.
+
+
+"
+"BG4PHS028SBPOSVM1_D365","d6c4e730-6379-4a1b-a172-478466d88202","Off","0","0","00:00:00","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","7/15/2022 6:51:15 AM","False",,"5.0","Host Server: BGLBG4PHS028 (172.29.42.138)
+VM Name: BG4PHS028SBPOSVM1_D365
+Owner of the VM : Bacchu Harshapriya
+Project Manager : Sheeba Thomas
+IP: 172.29.67.4
+OS: Windows Server 2016 Datacenter Evaluation, Version 1607 (Build 14393)
+User: .\administrator
+Password: pass@word1
+Duration : Permanet
+Created By : Praveen KM
+Created On : 18-July-2022
+
+VM is turned off by Manjunath Hegde on 24-May-2024, confirmed by Sheeba Thomas (8521). 
+
+","Network Adapter","D:\BG4PHS028SBPOSVM1\FinandOps10.0.17.vhd","D:\BG4PHS028SBPOSVM1\FinandOps10.0.17.vhd","127","127.09","",,"Host Server: BGLBG4PHS028 (172.29.42.138)
+VM Name: BG4PHS028SBPOSVM1_D365
+Owner of the VM : Bacchu Harshapriya
+Project Manager : Sheeba Thomas
+IP: 172.29.67.4
+OS: Windows Server 2016 Datacenter Evaluation, Version 1607 (Build 14393)
+User: .\administrator
+Password: pass@word1
+Duration : Permanet
+Created By : Praveen KM
+Created On : 18-July-2022
+
+VM is turned off by Manjunath Hegde on 24-May-2024, confirmed by Sheeba Thomas (8521). 
+
+"
+"BG4PHS028SBPOSVM2_D365","adb4c329-713c-4f68-a703-c28f39bd3ef6","Off","0","0","00:00:00","Operating normally","","1","D:\BG4PHS028SBPOSVM2\BG4PHS028SBPOSVM2","7/15/2022 6:54:17 AM","False",,"5.0","Host Server: BGLBG4PHS028 (172.29.42.138)
+VM Name: BG4PHS028SBPOSVM2_D365
+Owner of the VM :  Rithesh R
+Project Manager : Sheeba Thomas
+IP: 172.29.67.5
+User: .\administrator
+Password: pass@word1
+Duration : Permanet
+Created By : Praveen KM
+Created On : 18-July-2022
+OS: Windows Server 2016 Datacenter Evaluation, Version 1607 (Build 14393)
+
+VM is turned off by Manjunath Hegde on 24-May-2024, confirmed by Sheeba Thomas (8521). ","Network Adapter","D:\BG4PHS028SBPOSVM2\FinandOps10.0.17.vhd","D:\BG4PHS028SBPOSVM2\FinandOps10.0.17.vhd","127","126.09","",,"Host Server: BGLBG4PHS028 (172.29.42.138)
+VM Name: BG4PHS028SBPOSVM2_D365
+Owner of the VM :  Rithesh R
+Project Manager : Sheeba Thomas
+IP: 172.29.67.5
+User: .\administrator
+Password: pass@word1
+Duration : Permanet
+Created By : Praveen KM
+Created On : 18-July-2022
+OS: Windows Server 2016 Datacenter Evaluation, Version 1607 (Build 14393)
+
+VM is turned off by Manjunath Hegde on 24-May-2024, confirmed by Sheeba Thomas (8521). "
+"BG4PHS028UATPROD","3a992dd1-ea09-416f-9f94-2a94a370a9b8","Running","0","13.48","2.12:50:59","Operating normally","Up to date","1","D:\BG4PHS028UATPROD\BG4PHS028UATPROD","3/8/2024 3:30:37 PM","False",,"5.0","
+Hostname: BG4PHS028UATPRO
+IP: 172.29.74.44
+OS: Windows 10, Version 22H2
+Login: Administrator / sonata@123
+Owners: Sanjaya Kumar P.V. (6000) / Nanjunda Swamy C V (12249)
+
+In-Use, Confirmed Sanjaya Kumar P.V., Verified by Srinivasa KP on 27th May 2024. ","Network Adapter","D:\BG4PHS028UATPROD\BG4PHS028UATPROD\Virtual Hard Disks\BG4PHS028UATPROD.vhdx","D:\BG4PHS028UATPROD\BG4PHS028UATPROD\Virtual Hard Disks\BG4PHS028UATPROD.vhdx","500","78.88","172.29.74.44, fe80::19b4:d3e9:ddf:4d7d",,"
+Hostname: BG4PHS028UATPRO
+IP: 172.29.74.44
+OS: Windows 10, Version 22H2
+Login: Administrator / sonata@123
+Owners: Sanjaya Kumar P.V. (6000) / Nanjunda Swamy C V (12249)
+
+In-Use, Confirmed Sanjaya Kumar P.V., Verified by Srinivasa KP on 27th May 2024. "

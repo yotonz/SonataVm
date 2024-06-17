@@ -1,0 +1,410 @@
+"VMName","VMId","State","CPUUsage","MemoryAssignedGB","Uptime","Status","IntegrationServicesState","Generation","Path","CreationTime","IsClustered","IsHighlyAvailable","Version","Notes","NetworkAdapters","HardDrives","VhdPath","VhdSizeGB","VhdSizeOnDiskGB","IPAddresses","ManagementName","Records"
+"BG4PH025AX2012R3","d0c422da-ede4-49b7-b53b-aa154f8e30b1","Running","1","16.44","43.23:01:06","Operating normally","Update required","1","C:\ProgramData\Microsoft\Windows\Hyper-V","10/23/2023 10:56:11 AM","False",,"5.0","User:Narsing Rao Pyarasani
+IP:172.29.74.30
+Login:administrator
+Password: pass@word1
+PM:Urminavo Das
+Duration:Permanant
+Project: AX Team
+OS: Windows Server 2012 R2 Datacenter Evaluation
+
+In-Use, Confirmed Narsing Rao Pyarasani, Verified by Srinivasa KP on 27th May 2024. 
+","Network Adapter","E:\BG4PH025AX2012R3\AX2012R3A\Virtual Hard Disks\AX2012R3A_OS_45D6C623-ACE2-420D-BCB1-6A8EE149B7A9.avhd, E:\BG4PH025AX2012R3\AX2012R3A\Virtual Hard Disks\AX2012R3A_Data_DC71E587-0DAF-4E01-A9B2-D2AAE9C866C9.avhd","E:\BG4PH025AX2012R3\AX2012R3A\Virtual Hard Disks\AX2012R3A_OS_45D6C623-ACE2-420D-BCB1-6A8EE149B7A9.avhd","127","14.97","172.29.74.30, fe80::f3:a979:cd5c:f36",,"User:Narsing Rao Pyarasani
+IP:172.29.74.30
+Login:administrator
+Password: pass@word1
+PM:Urminavo Das
+Duration:Permanant
+Project: AX Team
+OS: Windows Server 2012 R2 Datacenter Evaluation
+
+In-Use, Confirmed Narsing Rao Pyarasani, Verified by Srinivasa KP on 27th May 2024. 
+"
+"BG4PH025AX2012R3","d0c422da-ede4-49b7-b53b-aa154f8e30b1","Running","1","16.44","43.23:01:08","Operating normally","Update required","1","C:\ProgramData\Microsoft\Windows\Hyper-V","10/23/2023 10:56:11 AM","False",,"5.0","User:Narsing Rao Pyarasani
+IP:172.29.74.30
+Login:administrator
+Password: pass@word1
+PM:Urminavo Das
+Duration:Permanant
+Project: AX Team
+OS: Windows Server 2012 R2 Datacenter Evaluation
+
+In-Use, Confirmed Narsing Rao Pyarasani, Verified by Srinivasa KP on 27th May 2024. 
+","Network Adapter","E:\BG4PH025AX2012R3\AX2012R3A\Virtual Hard Disks\AX2012R3A_OS_45D6C623-ACE2-420D-BCB1-6A8EE149B7A9.avhd, E:\BG4PH025AX2012R3\AX2012R3A\Virtual Hard Disks\AX2012R3A_Data_DC71E587-0DAF-4E01-A9B2-D2AAE9C866C9.avhd","E:\BG4PH025AX2012R3\AX2012R3A\Virtual Hard Disks\AX2012R3A_Data_DC71E587-0DAF-4E01-A9B2-D2AAE9C866C9.avhd","127","25.37","172.29.74.30, fe80::f3:a979:cd5c:f36",,"User:Narsing Rao Pyarasani
+IP:172.29.74.30
+Login:administrator
+Password: pass@word1
+PM:Urminavo Das
+Duration:Permanant
+Project: AX Team
+OS: Windows Server 2012 R2 Datacenter Evaluation
+
+In-Use, Confirmed Narsing Rao Pyarasani, Verified by Srinivasa KP on 27th May 2024. 
+"
+"BG4PHS025FINAUTO","c82ab170-c0dd-4f98-9212-73f7a2003f41","Running","0","4","36.02:14:28","Operating normally","Update required","1","C:\ProgramData\Microsoft\Windows\Hyper-V","1/1/1601 5:30:00 AM","False",,"5.0","VM Owner: Anando Ghose (112369 ) / Phani Chakravarthi Tanneru (23406)
+Duration:Permanent
+HDD: 100GB
+RAM : 4GB
+IP:172.29.74.41
+OS: NixOS 23.11(Tapir)
+user:Admin
+password:Support$123
+user:sonata Password: Welcome$321
+Created by Praveen KM on 3-may-2024
+Ticket: #SR-49735
+Administrator & Account Safe : Supp0rt$123 
+
+
+Account Safe : Supp0rt$123
+Administrator : Supp0rt$123
+
+In Use, verified by Manjunath Hegde on 23-May-2024, confirmed by Anando Ghose. ","Network Adapter","E:\BG4PHS025FINAUTO\BG4PHS025FINAUTO.vhdx","E:\BG4PHS025FINAUTO\BG4PHS025FINAUTO.vhdx","100","10.57","172.29.74.41, fe80::ba6b:db16:e6a3:be53",,"VM Owner: Anando Ghose (112369 ) / Phani Chakravarthi Tanneru (23406)
+Duration:Permanent
+HDD: 100GB
+RAM : 4GB
+IP:172.29.74.41
+OS: NixOS 23.11(Tapir)
+user:Admin
+password:Support$123
+user:sonata Password: Welcome$321
+Created by Praveen KM on 3-may-2024
+Ticket: #SR-49735
+Administrator & Account Safe : Supp0rt$123 
+
+
+Account Safe : Supp0rt$123
+Administrator : Supp0rt$123
+
+In Use, verified by Manjunath Hegde on 23-May-2024, confirmed by Anando Ghose. "
+"BG4PHS025INTEST","c3d93406-8175-45d1-a2b1-d1153ef29084","Running","0","31.25","39.17:10:36","Operating normally","Up to date","1","E:\BG4PHS025INTEST\BG4PHS025INTEST","5/7/2024 9:56:29 AM","False",,"5.0","Intest Server
+
+Hostname: BG4PHS025INTEST
+IP: 172.29.67.23
+Login: Administrator
+Pswd: Default Server Login Password
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763)
+Owner: Dnyaneshwar Panchal (14108)
+Project Team: Internal Apps
+PM: Mahesh Karnam
+
+In Use, confirmed by Dnyaneshwar Panchal on 27-May-2024.","Network Adapter","E:\BG4PHS025INTEST\BG4PHS025INTEST\Virtual Hard Disks\BG4PHS025INTEST.vhdx","E:\BG4PHS025INTEST\BG4PHS025INTEST\Virtual Hard Disks\BG4PHS025INTEST.vhdx","500","65.94","172.29.67.23, fe80::a5a2:4d49:f0a5:6b9b",,"Intest Server
+
+Hostname: BG4PHS025INTEST
+IP: 172.29.67.23
+Login: Administrator
+Pswd: Default Server Login Password
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763)
+Owner: Dnyaneshwar Panchal (14108)
+Project Team: Internal Apps
+PM: Mahesh Karnam
+
+In Use, confirmed by Dnyaneshwar Panchal on 27-May-2024."
+"BG4PHS025OWA","5c9adca5-a2ae-47c6-b5f3-866278609153","Off","0","0","00:00:00","Operating normally","","1","E:\BG4PHS025OWA\BG4PHS025OWA","11/7/2019 6:57:05 PM","False",,"5.0","INFRA
+
+IPv4: 172.29.67.40 
+Owner: Dnyaneshwar Panchal
+OS: Windows Server 2012 R2
+
+VM is turned off by Manjunath Hegde on 24-May-2024, confirmed by Dnyaneshwar Panchal. ","Network Adapter","E:\BG4PHS025OWA\BG4PHS025OWA\Virtual Hard Disks\BG4PHS025OWA.vhdx","E:\BG4PHS025OWA\BG4PHS025OWA\Virtual Hard Disks\BG4PHS025OWA.vhdx","200","22.94","",,"INFRA
+
+IPv4: 172.29.67.40 
+Owner: Dnyaneshwar Panchal
+OS: Windows Server 2012 R2
+
+VM is turned off by Manjunath Hegde on 24-May-2024, confirmed by Dnyaneshwar Panchal. "
+"BG4PHS025STORECOMM","e5e0c0c1-8332-4951-9d16-eaf623cbffb6","Off","0","0","00:00:00","Operating normally","","1","E:\BG4PHS025STORECOMM\BG4PHS025STORECOMM","8/29/2023 10:09:01 AM","False",,"5.0","VM Name: BG4PHS025STORECOMM
+IP Address     : 172.29.67.8
+Host Name     : STORECOMM
+User Name     : Administrator
+Password       : pass@word1
+OS                 : Windows 10, 22H2
+Requested by: Kalluri Subramanyam
+Created by     : Pavan Jawalkar
+Date               : 29-August-2023
+Purpose          : Testing
+Duration         : 1 month
+Request Mode: Via Email Request
+Ticket No: #Sr-24246
+
+VM is turned off by Manjunath Hegde on 27-May-2024, confirmed by Kalluri Subramanyam.","Network Adapter","E:\BG4PHS025STORECOMM\BG4PHS025STORECOMM.vhdx","E:\BG4PHS025STORECOMM\BG4PHS025STORECOMM.vhdx","200","114.22","",,"VM Name: BG4PHS025STORECOMM
+IP Address     : 172.29.67.8
+Host Name     : STORECOMM
+User Name     : Administrator
+Password       : pass@word1
+OS                 : Windows 10, 22H2
+Requested by: Kalluri Subramanyam
+Created by     : Pavan Jawalkar
+Date               : 29-August-2023
+Purpose          : Testing
+Duration         : 1 month
+Request Mode: Via Email Request
+Ticket No: #Sr-24246
+
+VM is turned off by Manjunath Hegde on 27-May-2024, confirmed by Kalluri Subramanyam."
+"BG4PHS025TIMSVM","e4486037-1b40-424d-9718-4c43789f3948","Running","0","20","43.23:00:51","Operating normally","Up to date","1","C:\ProgramData\Microsoft\Windows\Hyper-V","4/30/2024 3:36:33 PM","False",,"5.0","Internal Training Team Application.
+Owener : Sheela, Karthika Singireddy
+Createion Date: 30-April-2024
+Duration : Permanent
+RAM :20GB
+HDD: 500GB
+OS: Windows Server 2019 Standard 
+IP: 172.29.67.9
+UserName: Nirva
+
+In-Use, Confirmed by Sheela E N, Verified by Srinivasa KP on 27th May 2024. 
+","Network Adapter","E:\BG4PHS025TIMSVM\BG4PHS025TIMSVM.vhdx","E:\BG4PHS025TIMSVM\BG4PHS025TIMSVM.vhdx","500","61.85","172.29.67.9, fe80::f2c3:87fb:2121:82a",,"Internal Training Team Application.
+Owener : Sheela, Karthika Singireddy
+Createion Date: 30-April-2024
+Duration : Permanent
+RAM :20GB
+HDD: 500GB
+OS: Windows Server 2019 Standard 
+IP: 172.29.67.9
+UserName: Nirva
+
+In-Use, Confirmed by Sheela E N, Verified by Srinivasa KP on 27th May 2024. 
+"
+"BG4PHS025TUIVM","af55ca48-cc33-43cb-a652-f1adaf027602","Running","0","16","43.23:00:19","Operating normally","Up to date","1","C:\ProgramData\Microsoft\Windows\Hyper-V","4/29/2024 5:12:46 PM","False",,"5.0","TUI Invoice Application production VM
+
+Created on : 30-April-24
+IP : 10.174.0.243
+Hostname: BG4PHS025TUIVM
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763)
+Owners: Ananthapadma Siddharth (21049) / Ramachandra K.N. (4073)
+
+In-Use Confirmed by Ananthapadma Siddharth (21049), Verified by Srinivasa KP on 28th May 2024. ","Network Adapter","E:\BG4PHS025TUIVM\BG4PHS025TIMS.vhdx","E:\BG4PHS025TUIVM\BG4PHS025TIMS.vhdx","800","66.85","10.174.0.243",,"TUI Invoice Application production VM
+
+Created on : 30-April-24
+IP : 10.174.0.243
+Hostname: BG4PHS025TUIVM
+OS: Windows Server 2019 Standard, Version 1809 (Build 17763)
+Owners: Ananthapadma Siddharth (21049) / Ramachandra K.N. (4073)
+
+In-Use Confirmed by Ananthapadma Siddharth (21049), Verified by Srinivasa KP on 28th May 2024. "
+"BG4PHS025UATPROD","945d40c9-827c-4af2-a238-2f68be786015","Off","0","0","00:00:00","Operating normally","","2","E:\BG4PHS025UATPROD\BG4PHS025UATPROD","3/8/2024 3:28:42 PM","False",,"5.0","IP: 172.29.67.22
+Owners: Sanjaya Kumar P.V. (6000) / Nanjunda Swamy C V (12249)
+
+VM is turned off by Manjunath Hegde, confirmed by Sanjaya Kumar P.V. on 29-May-2024.","Network Adapter","E:\BG4PHS025UATPROD\New Virtual Hard Disk.vhdx","E:\BG4PHS025UATPROD\New Virtual Hard Disk.vhdx","127","29.19","",,"IP: 172.29.67.22
+Owners: Sanjaya Kumar P.V. (6000) / Nanjunda Swamy C V (12249)
+
+VM is turned off by Manjunath Hegde, confirmed by Sanjaya Kumar P.V. on 29-May-2024."
+"BGLBG4AX2009","a7e27475-0b81-4ada-b091-0f0b0449dca8","Running","0","10","43.23:00:12","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","5/13/2020 6:46:18 PM","False",,"5.0","administrator
+pass@word1 / sonata@123 / Sonata@321
+IP: 172.29.67.29
+OS: Windows Server 2008 R2 Ent
+
+request to turnon the VM vy urminavo Das and RAM upgraded to 10 GB by kantharaju.ym
+
+Turned on VM on 24/03/2022, requested by- Narsing Rao Pyarasani/Geetanjali Parekh.
+
+IN use verified by Praveen KM on 23-Nov.22
+
+User : narsingrao.p
+
+Narsing Rao Pyarasani (16116) / Urminavo Das (11689) 
+
+In-Use Confirmed by Narsing Rao Pyarasani, Verified by Srinivasa KP on 27th May 2024. ","Network Adapter","E:\AX 2012 R3 CU9\AX 2012 R3 CU9\AX2009 SP1\AX5-W8R2-01\Virtual Hard Disks\AX5-W8R2-01.vhd, E:\AX 2012 R3 CU9\AX 2012 R3 CU9\AX2009 SP1\AX5-W8R2-01\Virtual Hard Disks\AX5-W8R2-01_DB.vhd, E:\AX 2012 R3 CU9\AX 2012 R3 CU9\AX2009 SP1\AX5-W8R2-01\Virtual Hard Disks\AX5-W8R2-01_PF.vhd","E:\AX 2012 R3 CU9\AX 2012 R3 CU9\AX2009 SP1\AX5-W8R2-01\Virtual Hard Disks\AX5-W8R2-01.vhd","127","54.12","",,"administrator
+pass@word1 / sonata@123 / Sonata@321
+IP: 172.29.67.29
+OS: Windows Server 2008 R2 Ent
+
+request to turnon the VM vy urminavo Das and RAM upgraded to 10 GB by kantharaju.ym
+
+Turned on VM on 24/03/2022, requested by- Narsing Rao Pyarasani/Geetanjali Parekh.
+
+IN use verified by Praveen KM on 23-Nov.22
+
+User : narsingrao.p
+
+Narsing Rao Pyarasani (16116) / Urminavo Das (11689) 
+
+In-Use Confirmed by Narsing Rao Pyarasani, Verified by Srinivasa KP on 27th May 2024. "
+"BGLBG4AX2009","a7e27475-0b81-4ada-b091-0f0b0449dca8","Running","0","10","43.23:00:12","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","5/13/2020 6:46:18 PM","False",,"5.0","administrator
+pass@word1 / sonata@123 / Sonata@321
+IP: 172.29.67.29
+OS: Windows Server 2008 R2 Ent
+
+request to turnon the VM vy urminavo Das and RAM upgraded to 10 GB by kantharaju.ym
+
+Turned on VM on 24/03/2022, requested by- Narsing Rao Pyarasani/Geetanjali Parekh.
+
+IN use verified by Praveen KM on 23-Nov.22
+
+User : narsingrao.p
+
+Narsing Rao Pyarasani (16116) / Urminavo Das (11689) 
+
+In-Use Confirmed by Narsing Rao Pyarasani, Verified by Srinivasa KP on 27th May 2024. ","Network Adapter","E:\AX 2012 R3 CU9\AX 2012 R3 CU9\AX2009 SP1\AX5-W8R2-01\Virtual Hard Disks\AX5-W8R2-01.vhd, E:\AX 2012 R3 CU9\AX 2012 R3 CU9\AX2009 SP1\AX5-W8R2-01\Virtual Hard Disks\AX5-W8R2-01_DB.vhd, E:\AX 2012 R3 CU9\AX 2012 R3 CU9\AX2009 SP1\AX5-W8R2-01\Virtual Hard Disks\AX5-W8R2-01_PF.vhd","E:\AX 2012 R3 CU9\AX 2012 R3 CU9\AX2009 SP1\AX5-W8R2-01\Virtual Hard Disks\AX5-W8R2-01_DB.vhd","127","6.15","",,"administrator
+pass@word1 / sonata@123 / Sonata@321
+IP: 172.29.67.29
+OS: Windows Server 2008 R2 Ent
+
+request to turnon the VM vy urminavo Das and RAM upgraded to 10 GB by kantharaju.ym
+
+Turned on VM on 24/03/2022, requested by- Narsing Rao Pyarasani/Geetanjali Parekh.
+
+IN use verified by Praveen KM on 23-Nov.22
+
+User : narsingrao.p
+
+Narsing Rao Pyarasani (16116) / Urminavo Das (11689) 
+
+In-Use Confirmed by Narsing Rao Pyarasani, Verified by Srinivasa KP on 27th May 2024. "
+"BGLBG4AX2009","a7e27475-0b81-4ada-b091-0f0b0449dca8","Running","0","10","43.23:00:12","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","5/13/2020 6:46:18 PM","False",,"5.0","administrator
+pass@word1 / sonata@123 / Sonata@321
+IP: 172.29.67.29
+OS: Windows Server 2008 R2 Ent
+
+request to turnon the VM vy urminavo Das and RAM upgraded to 10 GB by kantharaju.ym
+
+Turned on VM on 24/03/2022, requested by- Narsing Rao Pyarasani/Geetanjali Parekh.
+
+IN use verified by Praveen KM on 23-Nov.22
+
+User : narsingrao.p
+
+Narsing Rao Pyarasani (16116) / Urminavo Das (11689) 
+
+In-Use Confirmed by Narsing Rao Pyarasani, Verified by Srinivasa KP on 27th May 2024. ","Network Adapter","E:\AX 2012 R3 CU9\AX 2012 R3 CU9\AX2009 SP1\AX5-W8R2-01\Virtual Hard Disks\AX5-W8R2-01.vhd, E:\AX 2012 R3 CU9\AX 2012 R3 CU9\AX2009 SP1\AX5-W8R2-01\Virtual Hard Disks\AX5-W8R2-01_DB.vhd, E:\AX 2012 R3 CU9\AX 2012 R3 CU9\AX2009 SP1\AX5-W8R2-01\Virtual Hard Disks\AX5-W8R2-01_PF.vhd","E:\AX 2012 R3 CU9\AX 2012 R3 CU9\AX2009 SP1\AX5-W8R2-01\Virtual Hard Disks\AX5-W8R2-01_PF.vhd","127","4.1","",,"administrator
+pass@word1 / sonata@123 / Sonata@321
+IP: 172.29.67.29
+OS: Windows Server 2008 R2 Ent
+
+request to turnon the VM vy urminavo Das and RAM upgraded to 10 GB by kantharaju.ym
+
+Turned on VM on 24/03/2022, requested by- Narsing Rao Pyarasani/Geetanjali Parekh.
+
+IN use verified by Praveen KM on 23-Nov.22
+
+User : narsingrao.p
+
+Narsing Rao Pyarasani (16116) / Urminavo Das (11689) 
+
+In-Use Confirmed by Narsing Rao Pyarasani, Verified by Srinivasa KP on 27th May 2024. "
+"BGLBG4AXTESTVM1","bf3b1baf-4dab-4678-b474-c864b04306a7","Running","0","16","43.23:00:51","Operating normally","Update required","1","C:\ProgramData\Microsoft\Windows\Hyper-V","9/10/2020 6:31:28 AM","False",,"5.0","Hostname: BGLBG4AXTESTVM1
+User ID: administrator
+Password: pass@word1
+OS: Windows Server 2012 R2
+Requested by: Vijayalakshmi K. (4744)
+IP: 172.29.67.94
+
+Don't delete the VM, Please check with Praveen KM
+
+VM is turned on by Manjunath Hegde on 15-SEP-2022
+Ticket '995-977' received from Vijaykumar C Nashi
+
+in use, verified by Praveen KM on 24-Nov-2022
+
+In-Use Confirmed by Vijaykumar C Nashi, Verified by Srinivasa KP on 28th May 2024.","Network Adapter","E:\BGLBG4AXTESTVM1\clone\BGLBG4AXTESTVM2.vhdx","E:\BGLBG4AXTESTVM1\clone\BGLBG4AXTESTVM2.vhdx","500","308.63","172.29.67.94, fe80::c194:1ce5:a1f9:6311",,"Hostname: BGLBG4AXTESTVM1
+User ID: administrator
+Password: pass@word1
+OS: Windows Server 2012 R2
+Requested by: Vijayalakshmi K. (4744)
+IP: 172.29.67.94
+
+Don't delete the VM, Please check with Praveen KM
+
+VM is turned on by Manjunath Hegde on 15-SEP-2022
+Ticket '995-977' received from Vijaykumar C Nashi
+
+in use, verified by Praveen KM on 24-Nov-2022
+
+In-Use Confirmed by Vijaykumar C Nashi, Verified by Srinivasa KP on 28th May 2024."
+"BGLBG4BK01LEAP","68b07ca7-e7fb-486e-a6db-2a01cc24c902","Running","0","20","1.17:25:24","Operating normally","Up to date","1","C:\ProgramData\Microsoft\Windows\Hyper-V","12/21/2023 10:52:47 AM","False",,"5.0","VM : BGLBG4BK01LEAP
+Ip:172.29.74.65
+OS: Windows 10, 22H2
+User:Administator
+Password:sonata@123
+VM Owner: Muragesh Alagundagi / Vishal Chanda
+PM: Venkateswarulu Kaisetty
+Project iD: CSR_Agastya_LEAP
+Duration:6-8Months
+Cration Date:27-Feb-2023
+Created By : Praveen KM
+End Date: Dec-31-2024
+
+In Use, confirmed by Muragesh Alagundagi on 29-May-2024.","Network Adapter","E:\BGLBG4BK01LEAP\BGLBG4BK01LEAP.vhdx","E:\BGLBG4BK01LEAP\BGLBG4BK01LEAP.vhdx","250","46.29","172.29.74.65, fe80::fd2e:4518:39d9:25e8",,"VM : BGLBG4BK01LEAP
+Ip:172.29.74.65
+OS: Windows 10, 22H2
+User:Administator
+Password:sonata@123
+VM Owner: Muragesh Alagundagi / Vishal Chanda
+PM: Venkateswarulu Kaisetty
+Project iD: CSR_Agastya_LEAP
+Duration:6-8Months
+Cration Date:27-Feb-2023
+Created By : Praveen KM
+End Date: Dec-31-2024
+
+In Use, confirmed by Muragesh Alagundagi on 29-May-2024."
+"BGLBG4PHS025VPRO","179f90be-e4f7-488e-a6ca-e0ccd7f957b8","Running","0","16","43.23:00:32","Operating normally","Up to date","1","E:\vPRO\vPRO","8/30/2023 5:48:30 PM","False",,"5.0","VM: BGLBG4PHS025VPRO
+hostname: VPRO
+username: administrator
+password: sonata@123
+ip: 172.29.67.15
+
+owner: pavankumar.jawalkar@sonata-software.com
+purpose: testplay
+
+OS: Windows Server 2022
+RAM: 16GB
+HDD: 127GB
+
+created: Pavankumar Jawalkar
+status: active and running
+Note: DO NOT TOUCH
+
+","Network Adapter","E:\vPRO\vPRO.vhdx","E:\vPRO\vPRO.vhdx","127","30.13","172.29.67.15, fe80::b27c:1c94:d8cf:75ff",,"VM: BGLBG4PHS025VPRO
+hostname: VPRO
+username: administrator
+password: sonata@123
+ip: 172.29.67.15
+
+owner: pavankumar.jawalkar@sonata-software.com
+purpose: testplay
+
+OS: Windows Server 2022
+RAM: 16GB
+HDD: 127GB
+
+created: Pavankumar Jawalkar
+status: active and running
+Note: DO NOT TOUCH
+
+"
+"BGLBG4PHY25_SAP_BO_TEST","035764bc-07e0-4db8-863a-1170282b78a1","Off","0","0","00:00:00","Operating normally","","1","E:\BGLBG4PHY25_SAP_BO_TEST\BGLBG4PHY25_SAP_BO_TEST","10/31/2023 9:55:07 PM","False",,"5.0","
+Hostname: BGLBG4PHY25_SAP_BO_TEST
+IP: 172.29.67.21
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393)
+Login: Administrator / sonata@123
+Owner: Mysari Gnaneshwar (23027) / Rajshekhar.G V. (4159)
+
+VM is turned off by Manjunath Hegde, confirmed by Mysari Gnaneshwar on 29-May-2024.","Network Adapter","E:\BGLBG4PHY25_SAP_BO_TEST\BGLBG4PHY25_SAP_BO_TEST\Virtual Hard Disks\BGLBG4PHY25_SAP_BO_TEST.vhdx","E:\BGLBG4PHY25_SAP_BO_TEST\BGLBG4PHY25_SAP_BO_TEST\Virtual Hard Disks\BGLBG4PHY25_SAP_BO_TEST.vhdx","250","36.44","",,"
+Hostname: BGLBG4PHY25_SAP_BO_TEST
+IP: 172.29.67.21
+OS: Windows Server 2016 Standard, Version 1607 (Build 14393)
+Login: Administrator / sonata@123
+Owner: Mysari Gnaneshwar (23027) / Rajshekhar.G V. (4159)
+
+VM is turned off by Manjunath Hegde, confirmed by Mysari Gnaneshwar on 29-May-2024."
+"D365","0ea150e9-2d26-4985-bd40-458b02b46edb","Off","0","0","00:00:00","Operating normally","","1","E:\D365\D365","8/31/2023 4:14:23 PM","False",,"5.0","
+Hostname: BG4PHS025D365 
+IPv4: 172.29.67.7
+Administrator / pass@word1
+OS: Windows 10, 22H2
+Project: Jeanswest
+Owner: Priyanka.Sawant / Vijayaraghavan Karunamurthy / Megha Tantri
+PM: Praveen Kumar R R
+
+
+VM is turned off by Manjunath Hegde on 05-Jun-2024, confirmed by Megha Tantri.","Network Adapter","E:\D365\D365.vhdx","E:\D365\D365.vhdx","200","50.22","",,"
+Hostname: BG4PHS025D365 
+IPv4: 172.29.67.7
+Administrator / pass@word1
+OS: Windows 10, 22H2
+Project: Jeanswest
+Owner: Priyanka.Sawant / Vijayaraghavan Karunamurthy / Megha Tantri
+PM: Praveen Kumar R R
+
+
+VM is turned off by Manjunath Hegde on 05-Jun-2024, confirmed by Megha Tantri."

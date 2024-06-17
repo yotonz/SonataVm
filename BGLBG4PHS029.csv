@@ -1,0 +1,197 @@
+"VMName","VMId","State","CPUUsage","MemoryAssignedGB","Uptime","Status","IntegrationServicesState","Generation","Path","CreationTime","IsClustered","IsHighlyAvailable","Version","Notes","NetworkAdapters","HardDrives","VhdPath","VhdSizeGB","VhdSizeOnDiskGB","IPAddresses","ManagementName","Records"
+"BG4PHS029Brickclick","71b1fd27-64e9-4070-86da-70beabbddbd8","Off","0","0","00:00:00","Operating normally","","1","E:\BG4PHS0290774\BG4PHS0290774","1/1/1601 5:30:00 AM","False",,"5.0","Server Name: this has been converted from BG4PHS0290774 to BG4PHS029Brickclick on 28/01/2019
+Hostname : BG4PHS029Brickc
+IP: 172.29.57.62
+Owner : Bipin Kumar Singh
+Created by : Praveen K on 26-Jan-2019
+Purpose: Brick & Click Project 
+
+Remarks : Created P2V
+
+Mail send for checking the VM usage","Network Adapter","E:\BG4PHS0290774\BG4WS0774.VHDX","E:\BG4PHS0290774\BG4WS0774.VHDX","931.51","751.95","",,"Server Name: this has been converted from BG4PHS0290774 to BG4PHS029Brickclick on 28/01/2019
+Hostname : BG4PHS029Brickc
+IP: 172.29.57.62
+Owner : Bipin Kumar Singh
+Created by : Praveen K on 26-Jan-2019
+Purpose: Brick & Click Project 
+
+Remarks : Created P2V
+
+Mail send for checking the VM usage"
+"BG4PHS029DELLOPS","36d47da2-ac80-4e71-aa47-1f1706b1aa83","Running","0","8","50.18:39:39","Operating normally","Update required","1","E:\BG4PHS029DELLOPS\BG4PHS029DELLOPS","4/12/2019 3:54:37 PM","False",,"5.0","Hosted VM Server :BGLBG4PHS029
+VM hostname        : BG4PHS029DELLOPS
+IP                          : 172.29.67.3
+Requested By       :Baskar Arunachalam
+Ticket                    : 715-079
+Mysql password    : admin@123
+User name            : Administrator
+Password              : sonata@123
+Duration                : 2 weeks
+Assigned on           : 12-Apr-19
+OS                          : Windows Server 2008 R2 Standard
+
+IN use, Verified by Praveen KM
+
+In use, confirmed by Dnyaneshwar Panchal, verified by Manjunath Hegde on 24-May-2024. ","Network Adapter","E:\BG4PHS029DELLOPS\BG4PHS029DELLOPS\Virtual Hard Disks\BG4PHS029DELLOPS.vhdx","E:\BG4PHS029DELLOPS\BG4PHS029DELLOPS\Virtual Hard Disks\BG4PHS029DELLOPS.vhdx","200","80.35","",,"Hosted VM Server :BGLBG4PHS029
+VM hostname        : BG4PHS029DELLOPS
+IP                          : 172.29.67.3
+Requested By       :Baskar Arunachalam
+Ticket                    : 715-079
+Mysql password    : admin@123
+User name            : Administrator
+Password              : sonata@123
+Duration                : 2 weeks
+Assigned on           : 12-Apr-19
+OS                          : Windows Server 2008 R2 Standard
+
+IN use, Verified by Praveen KM
+
+In use, confirmed by Dnyaneshwar Panchal, verified by Manjunath Hegde on 24-May-2024. "
+"BG4PHS029GIT2","62802503-462e-4e68-9be9-5c19f7106509","Running","0","16","50.17:26:25","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","5/29/2020 8:21:12 PM","False",,"5.0","GIT Server
+
+Hostname: sonata-Virtual-Machine
+IP: 172.29.67.59
+OS: Ubuntu 14.04.5
+sonata / sonata@123
+
+Owner: Baskar Arunachalam (9930)
+
+In use, confirmed by Baskar Arunachalam, verified by Manjunath Hegde on 24-May-2024. 
+
+","Network Adapter","E:\BG4PHS029GIT2\BG4PHS022GITRESVM_C8CC08BA-6A89-4EEC-96F8-3585FFFD2500.avhdx, E:\BG4PHS029GIT2\SDA_GIT2_72CC4E8B-4412-4F17-82E3-D40EFE9584E3.avhdx","E:\BG4PHS029GIT2\BG4PHS022GITRESVM_C8CC08BA-6A89-4EEC-96F8-3585FFFD2500.avhdx","500","11.25","",,"GIT Server
+
+Hostname: sonata-Virtual-Machine
+IP: 172.29.67.59
+OS: Ubuntu 14.04.5
+sonata / sonata@123
+
+Owner: Baskar Arunachalam (9930)
+
+In use, confirmed by Baskar Arunachalam, verified by Manjunath Hegde on 24-May-2024. 
+
+"
+"BG4PHS029GIT2","62802503-462e-4e68-9be9-5c19f7106509","Running","0","16","50.17:26:25","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","5/29/2020 8:21:12 PM","False",,"5.0","GIT Server
+
+Hostname: sonata-Virtual-Machine
+IP: 172.29.67.59
+OS: Ubuntu 14.04.5
+sonata / sonata@123
+
+Owner: Baskar Arunachalam (9930)
+
+In use, confirmed by Baskar Arunachalam, verified by Manjunath Hegde on 24-May-2024. 
+
+","Network Adapter","E:\BG4PHS029GIT2\BG4PHS022GITRESVM_C8CC08BA-6A89-4EEC-96F8-3585FFFD2500.avhdx, E:\BG4PHS029GIT2\SDA_GIT2_72CC4E8B-4412-4F17-82E3-D40EFE9584E3.avhdx","E:\BG4PHS029GIT2\SDA_GIT2_72CC4E8B-4412-4F17-82E3-D40EFE9584E3.avhdx","350","329.32","",,"GIT Server
+
+Hostname: sonata-Virtual-Machine
+IP: 172.29.67.59
+OS: Ubuntu 14.04.5
+sonata / sonata@123
+
+Owner: Baskar Arunachalam (9930)
+
+In use, confirmed by Baskar Arunachalam, verified by Manjunath Hegde on 24-May-2024. 
+
+"
+"BG4PHS029KARTOPIAVM1","fd46ff32-132f-4866-8ac8-d05c2d69145f","Off","0","0","00:00:00","Operating normally","","1","E:\BG4PHS029KARTOPIAVM1\BG4PHS029KARTOPIAVM1","11/21/2018 5:59:46 PM","False",,"5.0","Hosted on   : BGLBG4PHS029
+VM hostname :BG4PHS029KARVM1
+IP          : 172.29.67.13
+User name   : .\administrator
+password    : sonata@123
+Requested by : Usha Nandini/Mahesh OS
+Created by : Girish R
+Created Date : 21-11-2018 (Released Dell 9020 desktop which were used for Demo purpose)
+Duration : Permanent
+Project : Kartopia
+GH : 
+OS : Windows 10, Version 2004
+
+VM is turned off by Manjunath Hegde on 05-Jun-2024, confirmed by Usha Nandhini K R","Network Adapter","E:\BG4PHS029KARTOPIAVM1\Virtual Hard Disks\BG4PHS029KARTOPIAVM1.vhdx","E:\BG4PHS029KARTOPIAVM1\Virtual Hard Disks\BG4PHS029KARTOPIAVM1.vhdx","400","225.66","",,"Hosted on   : BGLBG4PHS029
+VM hostname :BG4PHS029KARVM1
+IP          : 172.29.67.13
+User name   : .\administrator
+password    : sonata@123
+Requested by : Usha Nandini/Mahesh OS
+Created by : Girish R
+Created Date : 21-11-2018 (Released Dell 9020 desktop which were used for Demo purpose)
+Duration : Permanent
+Project : Kartopia
+GH : 
+OS : Windows 10, Version 2004
+
+VM is turned off by Manjunath Hegde on 05-Jun-2024, confirmed by Usha Nandhini K R"
+"BG4PHS029QMSBKP","547d9a88-cb08-4afb-906d-1e4fa94b308e","Off","0","0","00:00:00","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","9/23/2020 1:50:59 AM","False",,"5.0","mail sent to Dnyaneshwar.
+
+Hostname: bg4phs029qmsrv
+IP: 172.29.67.49
+OS: Windows Server 2016 Standard, Version 1607
+
+Internal Apps Team
+Owner: Dnyaneshwar Panchal
+PM: Mahesh Karnam
+
+VM is turned off by Manjunath Hegde on 24-May-2024, confirmed by Dnyaneshwar Panchal. ","Network Adapter","E:\BG4PHS029QMSBKP\BG4PHS029QMSBKP.vhdx","E:\BG4PHS029QMSBKP\BG4PHS029QMSBKP.vhdx","500","144.16","",,"mail sent to Dnyaneshwar.
+
+Hostname: bg4phs029qmsrv
+IP: 172.29.67.49
+OS: Windows Server 2016 Standard, Version 1607
+
+Internal Apps Team
+Owner: Dnyaneshwar Panchal
+PM: Mahesh Karnam
+
+VM is turned off by Manjunath Hegde on 24-May-2024, confirmed by Dnyaneshwar Panchal. "
+"BG4PHS029TECHVM1","182380d1-7634-474c-84e0-6cd5bdef6345","Running","0","16","50.18:39:47","Operating normally","Up to date","1","C:\ProgramData\Microsoft\Windows\Hyper-V","5/15/2023 11:56:36 AM","False",,"5.0","VM Hostname :BG4PHS029TECHVM1
+IP:172.29.73.35 / 172.29.74.102
+VM Owner: Roja Panchangam
+Project ID: Training Team
+Durataion: Permanent
+Created By: Praveen KM
+OS : Windows Server 2019 Standard, Version 1809
+
+
+In-Use Confirmed by Roja Panchangam, Verified by Srinivasa KP on 29th May 2024.","Network Adapter","E:\BG4PHS029TECHVM1\BG4PHS029TECHVM1.vhdx","E:\BG4PHS029TECHVM1\BG4PHS029TECHVM1.vhdx","300","37.69","172.29.74.102, fe80::f9e9:9c4f:6d12:71b4",,"VM Hostname :BG4PHS029TECHVM1
+IP:172.29.73.35 / 172.29.74.102
+VM Owner: Roja Panchangam
+Project ID: Training Team
+Durataion: Permanent
+Created By: Praveen KM
+OS : Windows Server 2019 Standard, Version 1809
+
+
+In-Use Confirmed by Roja Panchangam, Verified by Srinivasa KP on 29th May 2024."
+"BG4PHS029TRBS1","f539ff96-25fd-4d26-9f05-96b869f8f8bb","Running","0","32","42.17:23:01","Operating normally","Up to date","1","C:\ProgramData\Microsoft\Windows\Hyper-V","4/26/2024 7:26:41 PM","False",,"5.0","VM Hostname :BG4PHS029TRBS1
+IP:172.29.67.43
+VM Owner: Ganesh Babu BM
+Project ID: Training Team( LMS Server)
+Durataion: Permanent
+Created By: Arul S
+Created date:26-04-2024
+OS: Windows Server 2019 STandard, Version 1809","Network Adapter","C:\Users\Public\Documents\Hyper-V\Virtual Hard Disks\BG4PHS029TRBS1.vhdx","C:\Users\Public\Documents\Hyper-V\Virtual Hard Disks\BG4PHS029TRBS1.vhdx","600","263.63","172.29.67.43, fe80::67bb:15bc:311e:4ba4",,"VM Hostname :BG4PHS029TRBS1
+IP:172.29.67.43
+VM Owner: Ganesh Babu BM
+Project ID: Training Team( LMS Server)
+Durataion: Permanent
+Created By: Arul S
+Created date:26-04-2024
+OS: Windows Server 2019 STandard, Version 1809"
+"BG4PHS029TRVM1","9cecc96b-0fb7-40a5-9294-5d18084a5e4e","Running","0","16.5","11.01:01:31","Operating normally","Up to date","1","C:\ProgramData\Microsoft\Windows\Hyper-V","1/1/1601 5:30:00 AM","False",,"5.0","VM Owner: Ganesh Babu Maruthaiah (5135)
+Created By: Pavankumar Jawalkar
+Created On: 07th-April-2023
+IP: 172.29.74.224
+Username: .\administrator
+Password: pass@word1
+Hostname: DVHD10037-47
+Validity: Perpetual
+
+Verified on 17/May/2024 by Praveen KM. Used by Ganesh babu","Network Adapter","E:\BG4PHS029TRVM1\D365 .37\FinandOps10.0.37.vhd","E:\BG4PHS029TRVM1\D365 .37\FinandOps10.0.37.vhd","256","256","172.29.74.224, fe80::953b:7a60:50d4:288b",,"VM Owner: Ganesh Babu Maruthaiah (5135)
+Created By: Pavankumar Jawalkar
+Created On: 07th-April-2023
+IP: 172.29.74.224
+Username: .\administrator
+Password: pass@word1
+Hostname: DVHD10037-47
+Validity: Perpetual
+
+Verified on 17/May/2024 by Praveen KM. Used by Ganesh babu"
+"mecm","9f660820-37b9-4cbb-9a57-7b5704497d09","Running","0","4","2.05:09:10","Operating normally","","1","C:\ProgramData\Microsoft\Windows\Hyper-V","6/14/2024 7:21:56 AM","False",,"5.0","","Network Adapter, Legacy Network Adapter","E:\mecm\mecm.vhdx","E:\mecm\mecm.vhdx","50","0","",,""
