@@ -19,7 +19,7 @@ st.markdown(
     """
     <style>
         body {
-            background-image: url('https://wallpapercave.com/wp/wp6397784.jpg');
+            background-image: url('https://wallpaper.dog/large/5560230.png');
             background-size: cover;
         }
         .stApp {
