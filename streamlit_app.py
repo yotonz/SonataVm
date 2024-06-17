@@ -181,7 +181,7 @@ else:
         st.write("Interact with the AI Assistant for the details of the VMs.")
 
         # Select a VM (CSV file)
-        vm_selected = st.selectbox("Select a VM", list(dataframes.keys()))
+        vm_selected = st.selectbox("Select a Physical server in Sonata", list(dataframes.keys()))
         df = dataframes[vm_selected]
 
         # Initialize conversation history in session state
